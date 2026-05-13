@@ -1,0 +1,1068 @@
+fileFormatVersion: 2
+guid: 3bf0c931576157441bf5e7a46d4e6338
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1085169077737795318
+    second: Soldado healer curando_0
+  - first:
+      213: -4136251841220795346
+    second: Soldado healer curando_1
+  - first:
+      213: 1146189257423228529
+    second: Soldado healer curando_2
+  - first:
+      213: -7591230975804294576
+    second: Soldado healer curando_3
+  - first:
+      213: 2689411371302476463
+    second: Soldado healer curando_4
+  - first:
+      213: -7457887552348548768
+    second: Soldado healer curando_5
+  - first:
+      213: 2551502052033139211
+    second: Soldado healer curando_6
+  - first:
+      213: 7646073829460876874
+    second: Soldado healer curando_7
+  - first:
+      213: 8844834287038945346
+    second: Soldado healer curando_8
+  - first:
+      213: 9093409540490260531
+    second: Soldado healer curando_9
+  - first:
+      213: -4997041907065893990
+    second: Soldado healer curando_10
+  - first:
+      213: 8486476476234257307
+    second: Soldado healer curando_11
+  - first:
+      213: -9015884275149118247
+    second: Soldado healer curando_12
+  - first:
+      213: 1567146607872261969
+    second: Soldado healer curando_13
+  - first:
+      213: 5301327951341906596
+    second: Soldado healer curando_14
+  - first:
+      213: -5395756145071292421
+    second: Soldado healer curando_15
+  - first:
+      213: 5612668246825486788
+    second: Soldado healer curando_16
+  - first:
+      213: 6103791494116880564
+    second: Soldado healer curando_17
+  - first:
+      213: -5402635643008607775
+    second: Soldado healer curando_18
+  - first:
+      213: -4964252836429355721
+    second: Soldado healer curando_19
+  - first:
+      213: 7671160056395218875
+    second: Soldado healer curando_20
+  - first:
+      213: 8444754843724125466
+    second: Soldado healer curando_21
+  - first:
+      213: 2761909110289983648
+    second: Soldado healer curando_22
+  - first:
+      213: -2228315369610931690
+    second: Soldado healer curando_23
+  - first:
+      213: 2070176617918053534
+    second: Soldado healer curando_24
+  - first:
+      213: -4488714399290434280
+    second: Soldado healer curando_25
+  - first:
+      213: -4927944796766665896
+    second: Soldado healer curando_26
+  - first:
+      213: -1330029546548011063
+    second: Soldado healer curando_27
+  - first:
+      213: -7154605169096092878
+    second: Soldado healer curando_28
+  - first:
+      213: -1677305844887017870
+    second: Soldado healer curando_29
+  - first:
+      213: -9197279807694006265
+    second: Soldado healer curando_30
+  - first:
+      213: -5513247185468645618
+    second: Soldado healer curando_31
+  - first:
+      213: -333276737622474195
+    second: Soldado healer curando_32
+  - first:
+      213: -7881577855742137526
+    second: Soldado healer curando_33
+  - first:
+      213: 3895274928027751198
+    second: Soldado healer curando_34
+  - first:
+      213: -2278431324516698362
+    second: Soldado healer curando_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Soldado healer curando_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2530
+        width: 342
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0153382974b0f0f0800000000000000
+      internalID: -1085169077737795318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer curando_1
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2530
+        width: 342
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24aa7e7dd41996c0800000000000000
+      internalID: -4136251841220795346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer curando_2
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 2530
+        width: 342
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e841e8e0518ef00800000000000000
+      internalID: 1146189257423228529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer curando_3
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 2530
+        width: 342
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a3e37c5a786a690800000000000000
+      internalID: -7591230975804294576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer curando_4
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 2530
+        width: 342
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa5161a465b25520800000000000000
+      internalID: 2689411371302476463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer curando_5
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 2530
+        width: 342
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0611573e8c2408890800000000000000
+      internalID: -7457887552348548768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer curando_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2024
+        width: 342
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b029d1f0991c86320800000000000000
+      internalID: 2551502052033139211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer curando_7
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2024
+        width: 342
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e1d6323af4c1a60800000000000000
+      internalID: 7646073829460876874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer curando_8
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 2024
+        width: 342
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248d6201ce92fba70800000000000000
+      internalID: 8844834287038945346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer curando_9
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 2024
+        width: 342
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330f1125cc7423e70800000000000000
+      internalID: 9093409540490260531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer curando_10
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 2024
+        width: 342
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bc8996cd0f6aab0800000000000000
+      internalID: -4997041907065893990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer curando_11
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 2024
+        width: 342
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93d6a0546506c570800000000000000
+      internalID: 8486476476234257307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer curando_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1518
+        width: 342
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4e4bb150521e280800000000000000
+      internalID: -9015884275149118247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer curando_13
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1518
+        width: 342
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f3f29698f9fb510800000000000000
+      internalID: 1567146607872261969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer curando_14
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1518
+        width: 342
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa65912fa9129940800000000000000
+      internalID: 5301327951341906596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer curando_15
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1518
+        width: 342
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfff46ebf5c6e15b0800000000000000
+      internalID: -5395756145071292421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer curando_16
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1518
+        width: 342
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9c526880434ed40800000000000000
+      internalID: 5612668246825486788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer curando_17
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 1518
+        width: 342
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b033ed460605b450800000000000000
+      internalID: 6103791494116880564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer curando_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1012
+        width: 342
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e99b9fc18bf505b0800000000000000
+      internalID: -5402635643008607775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer curando_19
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1012
+        width: 342
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7352765d85e6b1bb0800000000000000
+      internalID: -4964252836429355721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer curando_20
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1012
+        width: 342
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf3a908d6f657a60800000000000000
+      internalID: 7671160056395218875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer curando_21
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1012
+        width: 342
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a159f63c9cbc13570800000000000000
+      internalID: 8444754843724125466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer curando_22
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1012
+        width: 342
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8efbcd3b5445620800000000000000
+      internalID: 2761909110289983648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer curando_23
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 1012
+        width: 342
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6121cca3afe6311e0800000000000000
+      internalID: -2228315369610931690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer curando_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 506
+        width: 342
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c335d6aaebabc10800000000000000
+      internalID: 2070176617918053534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer curando_25
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 506
+        width: 342
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ddc1c3902e4b1c0800000000000000
+      internalID: -4488714399290434280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer curando_26
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 506
+        width: 342
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8530df3115c6c9bb0800000000000000
+      internalID: -4927944796766665896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer curando_27
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 506
+        width: 342
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf5b399c29ca8de0800000000000000
+      internalID: -1330029546548011063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer curando_28
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 506
+        width: 342
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2339ad3618cb5bc90800000000000000
+      internalID: -7154605169096092878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer curando_29
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 506
+        width: 342
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276a2d7883309b8e0800000000000000
+      internalID: -1677305844887017870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer curando_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 342
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70896828eb2bc5080800000000000000
+      internalID: -9197279807694006265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer curando_31
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 342
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f183f25e20d73b0800000000000000
+      internalID: -5513247185468645618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer curando_32
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 0
+        width: 342
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d228c1aa296ff5bf0800000000000000
+      internalID: -333276737622474195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer curando_33
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 0
+        width: 342
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ba7e6d2b20f9290800000000000000
+      internalID: -7881577855742137526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer curando_34
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 0
+        width: 342
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e135493b8ebce0630800000000000000
+      internalID: 3895274928027751198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer curando_35
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 0
+        width: 342
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6073f0138c26160e0800000000000000
+      internalID: -2278431324516698362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 992996f18755eb048a886bc02ba60e6e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":6.0},"gridSpriteSize":{"x":342.0,"y":506.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Soldado healer curando_0: -1085169077737795318
+      Soldado healer curando_1: -4136251841220795346
+      Soldado healer curando_10: -4997041907065893990
+      Soldado healer curando_11: 8486476476234257307
+      Soldado healer curando_12: -9015884275149118247
+      Soldado healer curando_13: 1567146607872261969
+      Soldado healer curando_14: 5301327951341906596
+      Soldado healer curando_15: -5395756145071292421
+      Soldado healer curando_16: 5612668246825486788
+      Soldado healer curando_17: 6103791494116880564
+      Soldado healer curando_18: -5402635643008607775
+      Soldado healer curando_19: -4964252836429355721
+      Soldado healer curando_2: 1146189257423228529
+      Soldado healer curando_20: 7671160056395218875
+      Soldado healer curando_21: 8444754843724125466
+      Soldado healer curando_22: 2761909110289983648
+      Soldado healer curando_23: -2228315369610931690
+      Soldado healer curando_24: 2070176617918053534
+      Soldado healer curando_25: -4488714399290434280
+      Soldado healer curando_26: -4927944796766665896
+      Soldado healer curando_27: -1330029546548011063
+      Soldado healer curando_28: -7154605169096092878
+      Soldado healer curando_29: -1677305844887017870
+      Soldado healer curando_3: -7591230975804294576
+      Soldado healer curando_30: -9197279807694006265
+      Soldado healer curando_31: -5513247185468645618
+      Soldado healer curando_32: -333276737622474195
+      Soldado healer curando_33: -7881577855742137526
+      Soldado healer curando_34: 3895274928027751198
+      Soldado healer curando_35: -2278431324516698362
+      Soldado healer curando_4: 2689411371302476463
+      Soldado healer curando_5: -7457887552348548768
+      Soldado healer curando_6: 2551502052033139211
+      Soldado healer curando_7: 7646073829460876874
+      Soldado healer curando_8: 8844834287038945346
+      Soldado healer curando_9: 9093409540490260531
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

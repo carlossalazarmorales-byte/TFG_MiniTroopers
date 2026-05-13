@@ -1,0 +1,803 @@
+fileFormatVersion: 2
+guid: d4d670b3caf3efe499b467fdf48a73cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1824874980723538588
+    second: Soldado sniper muriendo_0
+  - first:
+      213: 3524564587320076195
+    second: Soldado sniper muriendo_1
+  - first:
+      213: -1674620361069119171
+    second: Soldado sniper muriendo_2
+  - first:
+      213: -5361418398186344653
+    second: Soldado sniper muriendo_3
+  - first:
+      213: -8519934331423122695
+    second: Soldado sniper muriendo_4
+  - first:
+      213: 7775904879349015403
+    second: Soldado sniper muriendo_5
+  - first:
+      213: -7390046499828311788
+    second: Soldado sniper muriendo_6
+  - first:
+      213: -6093156487565477872
+    second: Soldado sniper muriendo_7
+  - first:
+      213: -3373964783805922323
+    second: Soldado sniper muriendo_8
+  - first:
+      213: -3947428984901955912
+    second: Soldado sniper muriendo_9
+  - first:
+      213: 7753933369628334695
+    second: Soldado sniper muriendo_10
+  - first:
+      213: 5220231123590693493
+    second: Soldado sniper muriendo_11
+  - first:
+      213: -7527902706784936092
+    second: Soldado sniper muriendo_12
+  - first:
+      213: -4235036398158252343
+    second: Soldado sniper muriendo_13
+  - first:
+      213: 5878396809446651107
+    second: Soldado sniper muriendo_14
+  - first:
+      213: -8874825133983731859
+    second: Soldado sniper muriendo_15
+  - first:
+      213: 4210813681929768089
+    second: Soldado sniper muriendo_16
+  - first:
+      213: 544796644396658527
+    second: Soldado sniper muriendo_17
+  - first:
+      213: -2802151115141979586
+    second: Soldado sniper muriendo_18
+  - first:
+      213: 7489750389953743528
+    second: Soldado sniper muriendo_19
+  - first:
+      213: -1993641024154685902
+    second: Soldado sniper muriendo_20
+  - first:
+      213: -6114285014573600986
+    second: Soldado sniper muriendo_21
+  - first:
+      213: 8719367380277724618
+    second: Soldado sniper muriendo_22
+  - first:
+      213: 140288414570603518
+    second: Soldado sniper muriendo_23
+  - first:
+      213: 9191741822787430790
+    second: Soldado sniper muriendo_24
+  - first:
+      213: 1562113634876498945
+    second: Soldado sniper muriendo_25
+  - first:
+      213: 2653122334120083438
+    second: Soldado sniper muriendo_26
+  - first:
+      213: 1932848658820097954
+    second: Soldado sniper muriendo_27
+  - first:
+      213: -4631943041889999048
+    second: Soldado sniper muriendo_28
+  - first:
+      213: 6156291728309856142
+    second: Soldado sniper muriendo_29
+  - first:
+      213: -5068199824238567223
+    second: Soldado sniper muriendo_30
+  - first:
+      213: -8573356344431281274
+    second: Soldado sniper muriendo_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Soldado sniper muriendo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1832
+        width: 536
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465c976afddbca6e0800000000000000
+      internalID: -1824874980723538588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper muriendo_1
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1832
+        width: 536
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7622771d4c9e030800000000000000
+      internalID: 3524564587320076195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper muriendo_2
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1832
+        width: 536
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39b6d477ad82c8e0800000000000000
+      internalID: -1674620361069119171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper muriendo_3
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1832
+        width: 536
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33febd37f5a6895b0800000000000000
+      internalID: -5361418398186344653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper muriendo_4
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 1832
+        width: 536
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa9ed9bddc13c980800000000000000
+      internalID: -8519934331423122695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper muriendo_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1374
+        width: 536
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6323dc0a4099eb60800000000000000
+      internalID: 7775904879349015403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper muriendo_6
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1374
+        width: 536
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4195d10dcd7417990800000000000000
+      internalID: -7390046499828311788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper muriendo_7
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1374
+        width: 536
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018facd1572c07ba0800000000000000
+      internalID: -6093156487565477872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper muriendo_8
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1374
+        width: 536
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de30298b7e44d21d0800000000000000
+      internalID: -3373964783805922323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper muriendo_9
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 1374
+        width: 536
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be86daa04ae739c0800000000000000
+      internalID: -3947428984901955912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper muriendo_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 916
+        width: 536
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a9ebc41518b9b60800000000000000
+      internalID: 7753933369628334695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper muriendo_11
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 916
+        width: 536
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572cf078c8cf17840800000000000000
+      internalID: 5220231123590693493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper muriendo_12
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 916
+        width: 536
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fd16a6f54878790800000000000000
+      internalID: -7527902706784936092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper muriendo_13
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 916
+        width: 536
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c67de485d02a35c0800000000000000
+      internalID: -4235036398158252343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper muriendo_14
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 916
+        width: 536
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e47bdbc0c2449150800000000000000
+      internalID: 5878396809446651107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper muriendo_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 458
+        width: 536
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fe03dbf8946d480800000000000000
+      internalID: -8874825133983731859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper muriendo_16
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 458
+        width: 536
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c47cedbb0df6a30800000000000000
+      internalID: 4210813681929768089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper muriendo_17
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 458
+        width: 536
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f661069a18f8700800000000000000
+      internalID: 544796644396658527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper muriendo_18
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 458
+        width: 536
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e326ffe3862cc19d0800000000000000
+      internalID: -2802151115141979586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper muriendo_19
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 458
+        width: 536
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa49891c40f0f760800000000000000
+      internalID: 7489750389953743528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper muriendo_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 536
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e2d912d0a2554e0800000000000000
+      internalID: -1993641024154685902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper muriendo_21
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 0
+        width: 536
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62fa8d29c22b52ba0800000000000000
+      internalID: -6114285014573600986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper muriendo_22
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 0
+        width: 536
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac505976f6a610970800000000000000
+      internalID: 8719367380277724618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper muriendo_23
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 0
+        width: 536
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3659cd19762f100800000000000000
+      internalID: 140288414570603518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper muriendo_24
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 0
+        width: 536
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689a856ec70af8f70800000000000000
+      internalID: 9191741822787430790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9213c71cac06d4540b5ace6786f17d60
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":5.0},"gridSpriteSize":{"x":536.0,"y":458.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Soldado sniper muriendo_0: -1824874980723538588
+      Soldado sniper muriendo_1: 3524564587320076195
+      Soldado sniper muriendo_10: 7753933369628334695
+      Soldado sniper muriendo_11: 5220231123590693493
+      Soldado sniper muriendo_12: -7527902706784936092
+      Soldado sniper muriendo_13: -4235036398158252343
+      Soldado sniper muriendo_14: 5878396809446651107
+      Soldado sniper muriendo_15: -8874825133983731859
+      Soldado sniper muriendo_16: 4210813681929768089
+      Soldado sniper muriendo_17: 544796644396658527
+      Soldado sniper muriendo_18: -2802151115141979586
+      Soldado sniper muriendo_19: 7489750389953743528
+      Soldado sniper muriendo_2: -1674620361069119171
+      Soldado sniper muriendo_20: -1993641024154685902
+      Soldado sniper muriendo_21: -6114285014573600986
+      Soldado sniper muriendo_22: 8719367380277724618
+      Soldado sniper muriendo_23: 140288414570603518
+      Soldado sniper muriendo_24: 9191741822787430790
+      Soldado sniper muriendo_3: -5361418398186344653
+      Soldado sniper muriendo_4: -8519934331423122695
+      Soldado sniper muriendo_5: 7775904879349015403
+      Soldado sniper muriendo_6: -7390046499828311788
+      Soldado sniper muriendo_7: -6093156487565477872
+      Soldado sniper muriendo_8: -3373964783805922323
+      Soldado sniper muriendo_9: -3947428984901955912
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

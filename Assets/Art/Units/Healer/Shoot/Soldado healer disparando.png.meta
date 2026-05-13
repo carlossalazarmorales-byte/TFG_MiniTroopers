@@ -1,0 +1,797 @@
+fileFormatVersion: 2
+guid: ccba50b891aa24e48b1f15a62d79d562
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6219291352273751696
+    second: Soldado healer disparando_0
+  - first:
+      213: 647305657963132860
+    second: Soldado healer disparando_1
+  - first:
+      213: 6514555472365440555
+    second: Soldado healer disparando_2
+  - first:
+      213: 6683754169464030227
+    second: Soldado healer disparando_3
+  - first:
+      213: 1969051255875770412
+    second: Soldado healer disparando_4
+  - first:
+      213: 6262788400754828150
+    second: Soldado healer disparando_5
+  - first:
+      213: -3834770422033359857
+    second: Soldado healer disparando_6
+  - first:
+      213: 1852444363074789280
+    second: Soldado healer disparando_7
+  - first:
+      213: -761642074172836802
+    second: Soldado healer disparando_8
+  - first:
+      213: 5185851976089507961
+    second: Soldado healer disparando_9
+  - first:
+      213: 6938621334423607419
+    second: Soldado healer disparando_10
+  - first:
+      213: 8839113648860207387
+    second: Soldado healer disparando_11
+  - first:
+      213: -6500841213301948410
+    second: Soldado healer disparando_12
+  - first:
+      213: 7801305980545516621
+    second: Soldado healer disparando_13
+  - first:
+      213: -5348958051783886138
+    second: Soldado healer disparando_14
+  - first:
+      213: 9222018987480416440
+    second: Soldado healer disparando_15
+  - first:
+      213: -4155172762663885880
+    second: Soldado healer disparando_16
+  - first:
+      213: 758362107489976856
+    second: Soldado healer disparando_17
+  - first:
+      213: -9097205778756607335
+    second: Soldado healer disparando_18
+  - first:
+      213: -1307440224893762394
+    second: Soldado healer disparando_19
+  - first:
+      213: 609348970020635608
+    second: Soldado healer disparando_20
+  - first:
+      213: 5340617342847709166
+    second: Soldado healer disparando_21
+  - first:
+      213: 7224177076476180972
+    second: Soldado healer disparando_22
+  - first:
+      213: 1572955820468474058
+    second: Soldado healer disparando_23
+  - first:
+      213: 4248127915957655871
+    second: Soldado healer disparando_24
+  - first:
+      213: -8552229306087228001
+    second: Soldado healer disparando_25
+  - first:
+      213: -2308288001490479969
+    second: Soldado healer disparando_26
+  - first:
+      213: 2669109376908125816
+    second: Soldado healer disparando_27
+  - first:
+      213: 5931595207331019099
+    second: Soldado healer disparando_28
+  - first:
+      213: -7688017156647728460
+    second: Soldado healer disparando_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Soldado healer disparando_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2096
+        width: 640
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e8fee988c5f4650800000000000000
+      internalID: 6219291352273751696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer disparando_1
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2096
+        width: 640
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb73efbf011bbf800800000000000000
+      internalID: 647305657963132860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer disparando_2
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2096
+        width: 640
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e4befbfa9586a50800000000000000
+      internalID: 6514555472365440555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer disparando_3
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2096
+        width: 640
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31480fc410771cc50800000000000000
+      internalID: 6683754169464030227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer disparando_4
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2096
+        width: 640
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28130b4fa9735b10800000000000000
+      internalID: 1969051255875770412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer disparando_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1572
+        width: 640
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673ad6a6ed4e9e650800000000000000
+      internalID: 6262788400754828150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer disparando_6
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1572
+        width: 640
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0cd68f5e9828cac0800000000000000
+      internalID: -3834770422033359857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer disparando_7
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1572
+        width: 640
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af5f33655435b910800000000000000
+      internalID: 1852444363074789280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer disparando_8
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1572
+        width: 640
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34bfe2a19a1e65f0800000000000000
+      internalID: -761642074172836802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer disparando_9
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1572
+        width: 640
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978929c75e8d7f740800000000000000
+      internalID: 5185851976089507961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer disparando_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1048
+        width: 640
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78144d575fea4060800000000000000
+      internalID: 6938621334423607419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer disparando_11
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1048
+        width: 640
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b199e913807daaa70800000000000000
+      internalID: 8839113648860207387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer disparando_12
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1048
+        width: 640
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6000be30c5f58c5a0800000000000000
+      internalID: -6500841213301948410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer disparando_13
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1048
+        width: 640
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44cb8ac47ec34c60800000000000000
+      internalID: 7801305980545516621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer disparando_14
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1048
+        width: 640
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cab4fcedfea4c5b0800000000000000
+      internalID: -5348958051783886138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer disparando_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 524
+        width: 640
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b08da4a8613bff70800000000000000
+      internalID: 9222018987480416440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer disparando_16
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 524
+        width: 640
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c36a0d236cd556c0800000000000000
+      internalID: -4155172762663885880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer disparando_17
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 524
+        width: 640
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8128e0c915e368a00800000000000000
+      internalID: 758362107489976856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer disparando_18
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 524
+        width: 640
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992e4941b8b30c180800000000000000
+      internalID: -9097205778756607335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer disparando_19
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 524
+        width: 640
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a48626ea0a0bdde0800000000000000
+      internalID: -1307440224893762394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer disparando_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 640
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d38456e8a7d47800800000000000000
+      internalID: 609348970020635608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer disparando_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 640
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef6ab17d2fad1a40800000000000000
+      internalID: 5340617342847709166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer disparando_22
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 640
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9f1e596ce614460800000000000000
+      internalID: 7224177076476180972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer disparando_23
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 640
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0186e1cf244d510800000000000000
+      internalID: 1572955820468474058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer disparando_24
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 640
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39931ff4d164fa30800000000000000
+      internalID: 4248127915957655871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2bca5fa86f614264ba66f24f85224f73
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":5.0},"gridSpriteSize":{"x":640.0,"y":524.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Soldado healer disparando_0: 6219291352273751696
+      Soldado healer disparando_1: 647305657963132860
+      Soldado healer disparando_10: 6938621334423607419
+      Soldado healer disparando_11: 8839113648860207387
+      Soldado healer disparando_12: -6500841213301948410
+      Soldado healer disparando_13: 7801305980545516621
+      Soldado healer disparando_14: -5348958051783886138
+      Soldado healer disparando_15: 9222018987480416440
+      Soldado healer disparando_16: -4155172762663885880
+      Soldado healer disparando_17: 758362107489976856
+      Soldado healer disparando_18: -9097205778756607335
+      Soldado healer disparando_19: -1307440224893762394
+      Soldado healer disparando_2: 6514555472365440555
+      Soldado healer disparando_20: 609348970020635608
+      Soldado healer disparando_21: 5340617342847709166
+      Soldado healer disparando_22: 7224177076476180972
+      Soldado healer disparando_23: 1572955820468474058
+      Soldado healer disparando_24: 4248127915957655871
+      Soldado healer disparando_3: 6683754169464030227
+      Soldado healer disparando_4: 1969051255875770412
+      Soldado healer disparando_5: 6262788400754828150
+      Soldado healer disparando_6: -3834770422033359857
+      Soldado healer disparando_7: 1852444363074789280
+      Soldado healer disparando_8: -761642074172836802
+      Soldado healer disparando_9: 5185851976089507961
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

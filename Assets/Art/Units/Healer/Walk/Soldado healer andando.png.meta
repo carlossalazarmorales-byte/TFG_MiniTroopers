@@ -1,0 +1,1068 @@
+fileFormatVersion: 2
+guid: 88393f27533dd644296f38ac42862310
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2695727356559458717
+    second: Soldado healer andando_0
+  - first:
+      213: -2688374856628754450
+    second: Soldado healer andando_1
+  - first:
+      213: -1193291558839067282
+    second: Soldado healer andando_2
+  - first:
+      213: -7697767362002773699
+    second: Soldado healer andando_3
+  - first:
+      213: -4613512570424426621
+    second: Soldado healer andando_4
+  - first:
+      213: 24055437250027837
+    second: Soldado healer andando_5
+  - first:
+      213: 7284736229131283476
+    second: Soldado healer andando_6
+  - first:
+      213: -2216906753297519982
+    second: Soldado healer andando_7
+  - first:
+      213: -6522842380695484943
+    second: Soldado healer andando_8
+  - first:
+      213: 7344344111628502981
+    second: Soldado healer andando_9
+  - first:
+      213: -4897681826060886774
+    second: Soldado healer andando_10
+  - first:
+      213: 3557830565820816790
+    second: Soldado healer andando_11
+  - first:
+      213: 857125665104530851
+    second: Soldado healer andando_12
+  - first:
+      213: -6140565477937563688
+    second: Soldado healer andando_13
+  - first:
+      213: 5073017767838477313
+    second: Soldado healer andando_14
+  - first:
+      213: -1777106699366225623
+    second: Soldado healer andando_15
+  - first:
+      213: -7033033376632400247
+    second: Soldado healer andando_16
+  - first:
+      213: 9109505278409747773
+    second: Soldado healer andando_17
+  - first:
+      213: -1600425422516420963
+    second: Soldado healer andando_18
+  - first:
+      213: 8226442995261366939
+    second: Soldado healer andando_19
+  - first:
+      213: 6867814564225773246
+    second: Soldado healer andando_20
+  - first:
+      213: -4794233607242985133
+    second: Soldado healer andando_21
+  - first:
+      213: 27335300091502797
+    second: Soldado healer andando_22
+  - first:
+      213: 8158553939393736346
+    second: Soldado healer andando_23
+  - first:
+      213: -5660998110368151887
+    second: Soldado healer andando_24
+  - first:
+      213: -8169496408886290224
+    second: Soldado healer andando_25
+  - first:
+      213: -4294664209715286047
+    second: Soldado healer andando_26
+  - first:
+      213: 762448949600485229
+    second: Soldado healer andando_27
+  - first:
+      213: 2426112960124602549
+    second: Soldado healer andando_28
+  - first:
+      213: 6051905034421159473
+    second: Soldado healer andando_29
+  - first:
+      213: -7176539934344072685
+    second: Soldado healer andando_30
+  - first:
+      213: 5901045314965070692
+    second: Soldado healer andando_31
+  - first:
+      213: 8975569109077689941
+    second: Soldado healer andando_32
+  - first:
+      213: -99299765892810025
+    second: Soldado healer andando_33
+  - first:
+      213: -8403128012176877521
+    second: Soldado healer andando_34
+  - first:
+      213: 8622652836211946292
+    second: Soldado healer andando_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Soldado healer andando_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2830
+        width: 328
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91870b8fb5296520800000000000000
+      internalID: 2695727356559458717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer andando_1
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 2830
+        width: 328
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee72d8fbf49f0bad0800000000000000
+      internalID: -2688374856628754450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer andando_2
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 2830
+        width: 328
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ddce946a3907fe0800000000000000
+      internalID: -1193291558839067282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer andando_3
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 2830
+        width: 328
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d399a386e590c2590800000000000000
+      internalID: -7697767362002773699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer andando_4
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 2830
+        width: 328
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f7d09b2c289ffb0800000000000000
+      internalID: -4613512570424426621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer andando_5
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 2830
+        width: 328
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d316430fa46755000800000000000000
+      internalID: 24055437250027837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer andando_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2264
+        width: 328
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ce9c31105981560800000000000000
+      internalID: 7284736229131283476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer andando_7
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 2264
+        width: 328
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a6985bd07fb31e0800000000000000
+      internalID: -2216906753297519982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer andando_8
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 2264
+        width: 328
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f548cc0a653a75a0800000000000000
+      internalID: -6522842380695484943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer andando_9
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 2264
+        width: 328
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c749d9be0a5ce560800000000000000
+      internalID: 7344344111628502981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer andando_10
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 2264
+        width: 328
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d11c60450f70cb0800000000000000
+      internalID: -4897681826060886774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer andando_11
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 2264
+        width: 328
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69dd6c6ac04ff5130800000000000000
+      internalID: 3557830565820816790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer andando_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1698
+        width: 328
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad0d6c404f15eb00800000000000000
+      internalID: 857125665104530851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer andando_13
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1698
+        width: 328
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7318f5b3458caa0800000000000000
+      internalID: -6140565477937563688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer andando_14
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1698
+        width: 328
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ce14728caf66640800000000000000
+      internalID: 5073017767838477313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer andando_15
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1698
+        width: 328
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9292f485fd27657e0800000000000000
+      internalID: -1777106699366225623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer andando_16
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1698
+        width: 328
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9861c541865a56e90800000000000000
+      internalID: -7033033376632400247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer andando_17
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1698
+        width: 328
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3da82759c67b6e70800000000000000
+      internalID: 9109505278409747773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer andando_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1132
+        width: 328
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e7761ce852ac9e0800000000000000
+      internalID: -1600425422516420963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer andando_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1132
+        width: 328
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92ed8191523a2270800000000000000
+      internalID: 8226442995261366939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer andando_20
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1132
+        width: 328
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe6eeb75f06f4f50800000000000000
+      internalID: 6867814564225773246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer andando_21
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1132
+        width: 328
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351da066fe5777db0800000000000000
+      internalID: -4794233607242985133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer andando_22
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1132
+        width: 328
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc068c38f4d116000800000000000000
+      internalID: 27335300091502797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer andando_23
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1132
+        width: 328
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e6d6ef491093170800000000000000
+      internalID: 8158553939393736346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer andando_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 566
+        width: 328
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6495d36381071b0800000000000000
+      internalID: -5660998110368151887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer andando_25
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 566
+        width: 328
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8d08acc4e10ae80800000000000000
+      internalID: -8169496408886290224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer andando_26
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 566
+        width: 328
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef2656c7a94664c0800000000000000
+      internalID: -4294664209715286047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer andando_27
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 566
+        width: 328
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f7e40b743c49a00800000000000000
+      internalID: 762448949600485229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer andando_28
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 566
+        width: 328
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8c23512e84ba120800000000000000
+      internalID: 2426112960124602549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer andando_29
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 566
+        width: 328
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136421f709facf350800000000000000
+      internalID: 6051905034421159473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer andando_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 328
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3123401e3fec76c90800000000000000
+      internalID: -7176539934344072685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer andando_31
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 328
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463e9f9e279b4e150800000000000000
+      internalID: 5901045314965070692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer andando_32
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 0
+        width: 328
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5568b83dc80af8c70800000000000000
+      internalID: 8975569109077689941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer andando_33
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 0
+        width: 328
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dafda793673f9ef0800000000000000
+      internalID: -99299765892810025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer andando_34
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 0
+        width: 328
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2810183897126b80800000000000000
+      internalID: -8403128012176877521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer andando_35
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 0
+        width: 328
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4337debd111d9a770800000000000000
+      internalID: 8622652836211946292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c74ede465e8509c41bdd3558b2ad9634
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":6.0},"gridSpriteSize":{"x":328.0,"y":566.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Soldado healer andando_0: 2695727356559458717
+      Soldado healer andando_1: -2688374856628754450
+      Soldado healer andando_10: -4897681826060886774
+      Soldado healer andando_11: 3557830565820816790
+      Soldado healer andando_12: 857125665104530851
+      Soldado healer andando_13: -6140565477937563688
+      Soldado healer andando_14: 5073017767838477313
+      Soldado healer andando_15: -1777106699366225623
+      Soldado healer andando_16: -7033033376632400247
+      Soldado healer andando_17: 9109505278409747773
+      Soldado healer andando_18: -1600425422516420963
+      Soldado healer andando_19: 8226442995261366939
+      Soldado healer andando_2: -1193291558839067282
+      Soldado healer andando_20: 6867814564225773246
+      Soldado healer andando_21: -4794233607242985133
+      Soldado healer andando_22: 27335300091502797
+      Soldado healer andando_23: 8158553939393736346
+      Soldado healer andando_24: -5660998110368151887
+      Soldado healer andando_25: -8169496408886290224
+      Soldado healer andando_26: -4294664209715286047
+      Soldado healer andando_27: 762448949600485229
+      Soldado healer andando_28: 2426112960124602549
+      Soldado healer andando_29: 6051905034421159473
+      Soldado healer andando_3: -7697767362002773699
+      Soldado healer andando_30: -7176539934344072685
+      Soldado healer andando_31: 5901045314965070692
+      Soldado healer andando_32: 8975569109077689941
+      Soldado healer andando_33: -99299765892810025
+      Soldado healer andando_34: -8403128012176877521
+      Soldado healer andando_35: 8622652836211946292
+      Soldado healer andando_4: -4613512570424426621
+      Soldado healer andando_5: 24055437250027837
+      Soldado healer andando_6: 7284736229131283476
+      Soldado healer andando_7: -2216906753297519982
+      Soldado healer andando_8: -6522842380695484943
+      Soldado healer andando_9: 7344344111628502981
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

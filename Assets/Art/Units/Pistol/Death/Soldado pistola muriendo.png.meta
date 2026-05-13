@@ -1,0 +1,803 @@
+fileFormatVersion: 2
+guid: 9cbf7fd8317e8864ea1c54efed2346d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8720773068594964971
+    second: Soldado pistola muriendo_0
+  - first:
+      213: -481497766408458506
+    second: Soldado pistola muriendo_1
+  - first:
+      213: -5883404903247067576
+    second: Soldado pistola muriendo_2
+  - first:
+      213: 9186582150605982579
+    second: Soldado pistola muriendo_3
+  - first:
+      213: -5525474677920136273
+    second: Soldado pistola muriendo_4
+  - first:
+      213: 4807334173377101226
+    second: Soldado pistola muriendo_5
+  - first:
+      213: -1993372786122403320
+    second: Soldado pistola muriendo_6
+  - first:
+      213: -6376130284343148941
+    second: Soldado pistola muriendo_7
+  - first:
+      213: -7336979603486622812
+    second: Soldado pistola muriendo_8
+  - first:
+      213: -8672261493166970398
+    second: Soldado pistola muriendo_9
+  - first:
+      213: -6758416616612139018
+    second: Soldado pistola muriendo_10
+  - first:
+      213: -913532736153700379
+    second: Soldado pistola muriendo_11
+  - first:
+      213: -898769688037979148
+    second: Soldado pistola muriendo_12
+  - first:
+      213: 6430625094349558395
+    second: Soldado pistola muriendo_13
+  - first:
+      213: -4140418106881124069
+    second: Soldado pistola muriendo_14
+  - first:
+      213: -8998952177251898457
+    second: Soldado pistola muriendo_15
+  - first:
+      213: -388417971164344698
+    second: Soldado pistola muriendo_16
+  - first:
+      213: -3303943684286190870
+    second: Soldado pistola muriendo_17
+  - first:
+      213: 5797400379182209844
+    second: Soldado pistola muriendo_18
+  - first:
+      213: -2518964940690509195
+    second: Soldado pistola muriendo_19
+  - first:
+      213: -515512831620863882
+    second: Soldado pistola muriendo_20
+  - first:
+      213: -868364351525933266
+    second: Soldado pistola muriendo_21
+  - first:
+      213: 4033574258490610731
+    second: Soldado pistola muriendo_22
+  - first:
+      213: -3216870565854804380
+    second: Soldado pistola muriendo_23
+  - first:
+      213: -5410154489899031369
+    second: Soldado pistola muriendo_24
+  - first:
+      213: 6068591159934393874
+    second: Soldado pistola muriendo_25
+  - first:
+      213: 725965654374782864
+    second: Soldado pistola muriendo_26
+  - first:
+      213: 7262487830241640537
+    second: Soldado pistola muriendo_27
+  - first:
+      213: -4218099454747584911
+    second: Soldado pistola muriendo_28
+  - first:
+      213: 8154108341605199654
+    second: Soldado pistola muriendo_29
+  - first:
+      213: 4944709718423738760
+    second: Soldado pistola muriendo_30
+  - first:
+      213: -4441056571498777956
+    second: Soldado pistola muriendo_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Soldado pistola muriendo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1824
+        width: 496
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5169a97491799f680800000000000000
+      internalID: -8720773068594964971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola muriendo_1
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1824
+        width: 496
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe641125506159f0800000000000000
+      internalID: -481497766408458506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola muriendo_2
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1824
+        width: 496
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846ca208962f95ea0800000000000000
+      internalID: -5883404903247067576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola muriendo_3
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1824
+        width: 496
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b40da1bcb4d7f70800000000000000
+      internalID: 9186582150605982579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola muriendo_4
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1824
+        width: 496
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3872f3e029153b0800000000000000
+      internalID: -5525474677920136273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola muriendo_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1368
+        width: 496
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadfcb8d5f417b240800000000000000
+      internalID: 4807334173377101226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola muriendo_6
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1368
+        width: 496
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8025e3a230e1654e0800000000000000
+      internalID: -1993372786122403320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola muriendo_7
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1368
+        width: 496
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ebd10e94f6387a0800000000000000
+      internalID: -6376130284343148941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola muriendo_8
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1368
+        width: 496
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abb4e17cefcd2a90800000000000000
+      internalID: -7336979603486622812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola muriendo_9
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1368
+        width: 496
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9eb7c9e10f5a780800000000000000
+      internalID: -8672261493166970398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola muriendo_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 912
+        width: 496
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff6cb215e74532a0800000000000000
+      internalID: -6758416616612139018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola muriendo_11
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 912
+        width: 496
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e73eda01da7253f0800000000000000
+      internalID: -913532736153700379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola muriendo_12
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 912
+        width: 496
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb8b990bbde683f0800000000000000
+      internalID: -898769688037979148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola muriendo_13
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 912
+        width: 496
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b721b60d37b2e3950800000000000000
+      internalID: 6430625094349558395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola muriendo_14
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 912
+        width: 496
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1951cd2ba74a86c0800000000000000
+      internalID: -4140418106881124069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola muriendo_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 496
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab2c2c5cac4d1380800000000000000
+      internalID: -8998952177251898457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola muriendo_16
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 456
+        width: 496
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e0f54c9ef0c9af0800000000000000
+      internalID: -388417971164344698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola muriendo_17
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 456
+        width: 496
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeae93469b80622d0800000000000000
+      internalID: -3303943684286190870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola muriendo_18
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 456
+        width: 496
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43bdeddcde0847050800000000000000
+      internalID: 5797400379182209844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola muriendo_19
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 456
+        width: 496
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572ba748bb6da0dd0800000000000000
+      internalID: -2518964940690509195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola muriendo_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 496
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678251a9fc788d8f0800000000000000
+      internalID: -515512831620863882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola muriendo_21
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 0
+        width: 496
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f2fab1933f2f3f0800000000000000
+      internalID: -868364351525933266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola muriendo_22
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 0
+        width: 496
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b241e74da622af730800000000000000
+      internalID: 4033574258490610731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola muriendo_23
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 0
+        width: 496
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46680d993416b53d0800000000000000
+      internalID: -3216870565854804380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola muriendo_24
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 0
+        width: 496
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b46599d7254be4b0800000000000000
+      internalID: -5410154489899031369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 125a0421ae19891479f3301557d13a4a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":5.0},"gridSpriteSize":{"x":496.0,"y":456.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Soldado pistola muriendo_0: -8720773068594964971
+      Soldado pistola muriendo_1: -481497766408458506
+      Soldado pistola muriendo_10: -6758416616612139018
+      Soldado pistola muriendo_11: -913532736153700379
+      Soldado pistola muriendo_12: -898769688037979148
+      Soldado pistola muriendo_13: 6430625094349558395
+      Soldado pistola muriendo_14: -4140418106881124069
+      Soldado pistola muriendo_15: -8998952177251898457
+      Soldado pistola muriendo_16: -388417971164344698
+      Soldado pistola muriendo_17: -3303943684286190870
+      Soldado pistola muriendo_18: 5797400379182209844
+      Soldado pistola muriendo_19: -2518964940690509195
+      Soldado pistola muriendo_2: -5883404903247067576
+      Soldado pistola muriendo_20: -515512831620863882
+      Soldado pistola muriendo_21: -868364351525933266
+      Soldado pistola muriendo_22: 4033574258490610731
+      Soldado pistola muriendo_23: -3216870565854804380
+      Soldado pistola muriendo_24: -5410154489899031369
+      Soldado pistola muriendo_3: 9186582150605982579
+      Soldado pistola muriendo_4: -5525474677920136273
+      Soldado pistola muriendo_5: 4807334173377101226
+      Soldado pistola muriendo_6: -1993372786122403320
+      Soldado pistola muriendo_7: -6376130284343148941
+      Soldado pistola muriendo_8: -7336979603486622812
+      Soldado pistola muriendo_9: -8672261493166970398
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,839 @@
+fileFormatVersion: 2
+guid: 8db4cc89e417f454a9d8a887e09a630f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2119196649456296087
+    second: Soldado rifle muriendo_0
+  - first:
+      213: 7401947000430819989
+    second: Soldado rifle muriendo_1
+  - first:
+      213: -5823098515083222440
+    second: Soldado rifle muriendo_2
+  - first:
+      213: 2946712408064658561
+    second: Soldado rifle muriendo_3
+  - first:
+      213: 1637327642786813192
+    second: Soldado rifle muriendo_4
+  - first:
+      213: -4230991779938115125
+    second: Soldado rifle muriendo_5
+  - first:
+      213: -5525378069077514686
+    second: Soldado rifle muriendo_6
+  - first:
+      213: -6904448309299424090
+    second: Soldado rifle muriendo_7
+  - first:
+      213: 1791245527858606998
+    second: Soldado rifle muriendo_8
+  - first:
+      213: -793798805118776456
+    second: Soldado rifle muriendo_9
+  - first:
+      213: -4154754963948002038
+    second: Soldado rifle muriendo_10
+  - first:
+      213: -7132482645574181804
+    second: Soldado rifle muriendo_11
+  - first:
+      213: -4232384157582830922
+    second: Soldado rifle muriendo_12
+  - first:
+      213: 2523509453059789526
+    second: Soldado rifle muriendo_13
+  - first:
+      213: 353526166742844604
+    second: Soldado rifle muriendo_14
+  - first:
+      213: 3224736233965092309
+    second: Soldado rifle muriendo_15
+  - first:
+      213: 3366847314949094934
+    second: Soldado rifle muriendo_16
+  - first:
+      213: -5423688904296339116
+    second: Soldado rifle muriendo_17
+  - first:
+      213: 7328524072424814067
+    second: Soldado rifle muriendo_18
+  - first:
+      213: 1761811999275752913
+    second: Soldado rifle muriendo_19
+  - first:
+      213: -3060050438873266100
+    second: Soldado rifle muriendo_20
+  - first:
+      213: -1182019915713463004
+    second: Soldado rifle muriendo_21
+  - first:
+      213: 4921421759824757481
+    second: Soldado rifle muriendo_22
+  - first:
+      213: -5945717275189136007
+    second: Soldado rifle muriendo_23
+  - first:
+      213: -92998628893794633
+    second: Soldado rifle muriendo_24
+  - first:
+      213: -3379098942260353425
+    second: Soldado rifle muriendo_25
+  - first:
+      213: 8719723725803679348
+    second: Soldado rifle muriendo_26
+  - first:
+      213: 8535206304561890696
+    second: Soldado rifle muriendo_27
+  - first:
+      213: -6168657115288555123
+    second: Soldado rifle muriendo_28
+  - first:
+      213: -8236317138804878048
+    second: Soldado rifle muriendo_29
+  - first:
+      213: 4396714722886066850
+    second: Soldado rifle muriendo_30
+  - first:
+      213: -7615869022644106431
+    second: Soldado rifle muriendo_31
+  - first:
+      213: 7202378524508924605
+    second: Soldado rifle muriendo_32
+  - first:
+      213: 4622655335767409755
+    second: Soldado rifle muriendo_33
+  - first:
+      213: -9137986603875113689
+    second: Soldado rifle muriendo_34
+  - first:
+      213: -8423958071785927702
+    second: Soldado rifle muriendo_35
+  - first:
+      213: 7663811170542672830
+    second: Soldado rifle muriendo_36
+  - first:
+      213: -6712048629746956028
+    second: Soldado rifle muriendo_37
+  - first:
+      213: -7529149128983898233
+    second: Soldado rifle muriendo_38
+  - first:
+      213: -5010593958549429194
+    second: Soldado rifle muriendo_39
+  - first:
+      213: -6687957479857681247
+    second: Soldado rifle muriendo_40
+  - first:
+      213: 7296438457520399208
+    second: Soldado rifle muriendo_41
+  - first:
+      213: -5152660606076855646
+    second: Soldado rifle muriendo_42
+  - first:
+      213: -7555287771744409996
+    second: Soldado rifle muriendo_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Soldado rifle muriendo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1944
+        width: 638
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7906a0cef16e86d10800000000000000
+      internalID: 2119196649456296087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado rifle muriendo_1
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1944
+        width: 638
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a72f6649ff8b660800000000000000
+      internalID: 7401947000430819989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado rifle muriendo_2
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1944
+        width: 638
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8522c5ca0c2303fa0800000000000000
+      internalID: -5823098515083222440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado rifle muriendo_3
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1944
+        width: 638
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c0ee1a253d4e820800000000000000
+      internalID: 2946712408064658561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado rifle muriendo_4
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 1944
+        width: 638
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8055c31f0d4f8b610800000000000000
+      internalID: 1637327642786813192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado rifle muriendo_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1458
+        width: 638
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1e035946f7845c0800000000000000
+      internalID: -4230991779938115125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado rifle muriendo_6
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1458
+        width: 638
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246a6eebbe9e153b0800000000000000
+      internalID: -5525378069077514686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado rifle muriendo_7
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1458
+        width: 638
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4592218d87e20a0800000000000000
+      internalID: -6904448309299424090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado rifle muriendo_8
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1458
+        width: 638
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693f4813158cbd810800000000000000
+      internalID: 1791245527858606998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado rifle muriendo_9
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 1458
+        width: 638
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b04c5413cdbf4f0800000000000000
+      internalID: -793798805118776456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado rifle muriendo_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 972
+        width: 638
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05a6158f585756c0800000000000000
+      internalID: -4154754963948002038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado rifle muriendo_11
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 972
+        width: 638
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c99e7c2d4540d90800000000000000
+      internalID: -7132482645574181804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado rifle muriendo_12
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 972
+        width: 638
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2d846680d8345c0800000000000000
+      internalID: -4232384157582830922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado rifle muriendo_13
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 972
+        width: 638
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d218f83a7e450320800000000000000
+      internalID: 2523509453059789526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado rifle muriendo_14
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 972
+        width: 638
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb44383fc2af7e400800000000000000
+      internalID: 353526166742844604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado rifle muriendo_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 486
+        width: 638
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddf1d7f48090cc20800000000000000
+      internalID: 3224736233965092309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado rifle muriendo_16
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 486
+        width: 638
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61eb48c6bc179be20800000000000000
+      internalID: 3366847314949094934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado rifle muriendo_17
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 486
+        width: 638
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459603f6daf2bb4b0800000000000000
+      internalID: -5423688904296339116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado rifle muriendo_18
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 486
+        width: 638
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5b7c0d0d524b560800000000000000
+      internalID: 7328524072424814067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado rifle muriendo_19
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 486
+        width: 638
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd1ad9cda6337810800000000000000
+      internalID: 1761811999275752913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado rifle muriendo_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 638
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c484e24b6548885d0800000000000000
+      internalID: -3060050438873266100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado rifle muriendo_21
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 0
+        width: 638
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d3676362f989fe0800000000000000
+      internalID: -1182019915713463004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado rifle muriendo_22
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 0
+        width: 638
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e28b3804076c4440800000000000000
+      internalID: 4921421759824757481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado rifle muriendo_23
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 0
+        width: 638
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975b275d3a19c7da0800000000000000
+      internalID: -5945717275189136007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado rifle muriendo_24
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 0
+        width: 638
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bedf206d3a95bef0800000000000000
+      internalID: -92998628893794633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c71352869de209f428e4d242d1138de3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":5.0},"gridSpriteSize":{"x":638.0,"y":486.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Soldado rifle muriendo_0: 2119196649456296087
+      Soldado rifle muriendo_1: 7401947000430819989
+      Soldado rifle muriendo_10: -4154754963948002038
+      Soldado rifle muriendo_11: -7132482645574181804
+      Soldado rifle muriendo_12: -4232384157582830922
+      Soldado rifle muriendo_13: 2523509453059789526
+      Soldado rifle muriendo_14: 353526166742844604
+      Soldado rifle muriendo_15: 3224736233965092309
+      Soldado rifle muriendo_16: 3366847314949094934
+      Soldado rifle muriendo_17: -5423688904296339116
+      Soldado rifle muriendo_18: 7328524072424814067
+      Soldado rifle muriendo_19: 1761811999275752913
+      Soldado rifle muriendo_2: -5823098515083222440
+      Soldado rifle muriendo_20: -3060050438873266100
+      Soldado rifle muriendo_21: -1182019915713463004
+      Soldado rifle muriendo_22: 4921421759824757481
+      Soldado rifle muriendo_23: -5945717275189136007
+      Soldado rifle muriendo_24: -92998628893794633
+      Soldado rifle muriendo_3: 2946712408064658561
+      Soldado rifle muriendo_4: 1637327642786813192
+      Soldado rifle muriendo_5: -4230991779938115125
+      Soldado rifle muriendo_6: -5525378069077514686
+      Soldado rifle muriendo_7: -6904448309299424090
+      Soldado rifle muriendo_8: 1791245527858606998
+      Soldado rifle muriendo_9: -793798805118776456
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

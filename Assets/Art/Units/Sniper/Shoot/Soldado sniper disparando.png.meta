@@ -1,0 +1,680 @@
+fileFormatVersion: 2
+guid: 2e1e830e8ddd7274f85ff8271eb71dfa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8078754497279424054
+    second: Soldado sniper disparando_0
+  - first:
+      213: -5034384587734263670
+    second: Soldado sniper disparando_1
+  - first:
+      213: 7630495266232401933
+    second: Soldado sniper disparando_2
+  - first:
+      213: 2229150199138970776
+    second: Soldado sniper disparando_3
+  - first:
+      213: -3262573452845954911
+    second: Soldado sniper disparando_4
+  - first:
+      213: 3233640580266421435
+    second: Soldado sniper disparando_5
+  - first:
+      213: 6611779587653765463
+    second: Soldado sniper disparando_6
+  - first:
+      213: -2167691268852453239
+    second: Soldado sniper disparando_7
+  - first:
+      213: 2454307195391006578
+    second: Soldado sniper disparando_8
+  - first:
+      213: 2545122836246438961
+    second: Soldado sniper disparando_9
+  - first:
+      213: -5332628079272901623
+    second: Soldado sniper disparando_10
+  - first:
+      213: 652033730838407660
+    second: Soldado sniper disparando_11
+  - first:
+      213: 7905022451852342073
+    second: Soldado sniper disparando_12
+  - first:
+      213: -7290284822483067735
+    second: Soldado sniper disparando_13
+  - first:
+      213: 1975548508300093842
+    second: Soldado sniper disparando_14
+  - first:
+      213: 628704361451756548
+    second: Soldado sniper disparando_15
+  - first:
+      213: -1667243664172994113
+    second: Soldado sniper disparando_16
+  - first:
+      213: -8648799203114987600
+    second: Soldado sniper disparando_17
+  - first:
+      213: -7406210765102516071
+    second: Soldado sniper disparando_18
+  - first:
+      213: -4173917695383834225
+    second: Soldado sniper disparando_19
+  - first:
+      213: 9035384981827475355
+    second: Soldado sniper disparando_20
+  - first:
+      213: -4336495840842761608
+    second: Soldado sniper disparando_21
+  - first:
+      213: 525377837039365186
+    second: Soldado sniper disparando_22
+  - first:
+      213: 4899685910578518029
+    second: Soldado sniper disparando_23
+  - first:
+      213: 6575907146185783056
+    second: Soldado sniper disparando_24
+  - first:
+      213: -367186863892008189
+    second: Soldado sniper disparando_25
+  - first:
+      213: 1884545132313472748
+    second: Soldado sniper disparando_26
+  - first:
+      213: -4763478267710226375
+    second: Soldado sniper disparando_27
+  - first:
+      213: -3398891670235812156
+    second: Soldado sniper disparando_28
+  - first:
+      213: -1340696920164713740
+    second: Soldado sniper disparando_29
+  - first:
+      213: -1747570563751160195
+    second: Soldado sniper disparando_30
+  - first:
+      213: 2531862438548062532
+    second: Soldado sniper disparando_31
+  - first:
+      213: -7567721911934227325
+    second: Soldado sniper disparando_32
+  - first:
+      213: 520507434918804257
+    second: Soldado sniper disparando_33
+  - first:
+      213: -4535060352213816078
+    second: Soldado sniper disparando_34
+  - first:
+      213: 4897768422606594228
+    second: Soldado sniper disparando_35
+  - first:
+      213: 4088893998608332447
+    second: Soldado sniper disparando_36
+  - first:
+      213: -7639532495399002293
+    second: Soldado sniper disparando_37
+  - first:
+      213: 4700920449387643772
+    second: Soldado sniper disparando_38
+  - first:
+      213: 9147207675866870048
+    second: Soldado sniper disparando_39
+  - first:
+      213: -4168078894267917837
+    second: Soldado sniper disparando_40
+  - first:
+      213: 5354998962638165950
+    second: Soldado sniper disparando_41
+  - first:
+      213: -8609343560107447045
+    second: Soldado sniper disparando_42
+  - first:
+      213: -4194476121094314248
+    second: Soldado sniper disparando_43
+  - first:
+      213: 8505078973006115560
+    second: Soldado sniper disparando_44
+  - first:
+      213: 5851197196034951564
+    second: Soldado sniper disparando_45
+  - first:
+      213: -2491682149621329122
+    second: Soldado sniper disparando_46
+  - first:
+      213: -666179283416297213
+    second: Soldado sniper disparando_47
+  - first:
+      213: 5415476160707210832
+    second: Soldado sniper disparando_48
+  - first:
+      213: 6629759318166743916
+    second: Soldado sniper disparando_49
+  - first:
+      213: 4116896497113949745
+    second: Soldado sniper disparando_50
+  - first:
+      213: 5509391458867311753
+    second: Soldado sniper disparando_51
+  - first:
+      213: -1177684371240169867
+    second: Soldado sniper disparando_52
+  - first:
+      213: -404459114491134068
+    second: Soldado sniper disparando_53
+  - first:
+      213: 952216013416124291
+    second: Soldado sniper disparando_54
+  - first:
+      213: 2655320940868254017
+    second: Soldado sniper disparando_55
+  - first:
+      213: -2836293183911529051
+    second: Soldado sniper disparando_56
+  - first:
+      213: 292688433617854652
+    second: Soldado sniper disparando_57
+  - first:
+      213: 1808634945800282338
+    second: Soldado sniper disparando_58
+  - first:
+      213: 9061815378708384433
+    second: Soldado sniper disparando_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Soldado sniper disparando_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1554
+        width: 640
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9021a769f72ef80800000000000000
+      internalID: -8078754497279424054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper disparando_1
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1554
+        width: 640
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88d56904e5422ab0800000000000000
+      internalID: -5034384587734263670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper disparando_2
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1554
+        width: 640
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00051c3407f4e960800000000000000
+      internalID: 7630495266232401933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper disparando_3
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1554
+        width: 640
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c6baaab488fee10800000000000000
+      internalID: 2229150199138970776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper disparando_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1036
+        width: 640
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a84f710bb209b2d0800000000000000
+      internalID: -3262573452845954911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper disparando_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1036
+        width: 640
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc6116a9f230ec20800000000000000
+      internalID: 3233640580266421435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper disparando_6
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1036
+        width: 640
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75908471182c1cb50800000000000000
+      internalID: 6611779587653765463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper disparando_7
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1036
+        width: 640
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9807551a640dae1e0800000000000000
+      internalID: -2167691268852453239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper disparando_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 518
+        width: 640
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27757f604637f0220800000000000000
+      internalID: 2454307195391006578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper disparando_9
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 518
+        width: 640
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13424342cb7125320800000000000000
+      internalID: 2545122836246438961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper disparando_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 518
+        width: 640
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9044aafe303bef5b0800000000000000
+      internalID: -5332628079272901623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper disparando_11
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 518
+        width: 640
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9223c393d7c0900800000000000000
+      internalID: 652033730838407660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper disparando_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 640
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9337520990844bd60800000000000000
+      internalID: 7905022451852342073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper disparando_13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 640
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac997c5494b3da90800000000000000
+      internalID: -7290284822483067735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper disparando_14
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 640
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299a7c1c6ee8a6b10800000000000000
+      internalID: 1975548508300093842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper disparando_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 640
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c1215294b99b800800000000000000
+      internalID: 628704361451756548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bbb34b921199bf64580444f4432e03c6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":4.0},"gridSpriteSize":{"x":640.0,"y":518.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Soldado sniper disparando_0: -8078754497279424054
+      Soldado sniper disparando_1: -5034384587734263670
+      Soldado sniper disparando_10: -5332628079272901623
+      Soldado sniper disparando_11: 652033730838407660
+      Soldado sniper disparando_12: 7905022451852342073
+      Soldado sniper disparando_13: -7290284822483067735
+      Soldado sniper disparando_14: 1975548508300093842
+      Soldado sniper disparando_15: 628704361451756548
+      Soldado sniper disparando_2: 7630495266232401933
+      Soldado sniper disparando_3: 2229150199138970776
+      Soldado sniper disparando_4: -3262573452845954911
+      Soldado sniper disparando_5: 3233640580266421435
+      Soldado sniper disparando_6: 6611779587653765463
+      Soldado sniper disparando_7: -2167691268852453239
+      Soldado sniper disparando_8: 2454307195391006578
+      Soldado sniper disparando_9: 2545122836246438961
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

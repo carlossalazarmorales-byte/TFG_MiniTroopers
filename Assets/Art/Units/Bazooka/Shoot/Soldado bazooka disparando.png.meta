@@ -1,0 +1,1074 @@
+fileFormatVersion: 2
+guid: f9fc7917a53b2d748a0194ee8cca7a49
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6971939438342231053
+    second: Soldado bazooka disparando_0
+  - first:
+      213: 3230024020808150337
+    second: Soldado bazooka disparando_1
+  - first:
+      213: 2984045184683413336
+    second: Soldado bazooka disparando_2
+  - first:
+      213: 8882543646145019895
+    second: Soldado bazooka disparando_3
+  - first:
+      213: 2694124365960643246
+    second: Soldado bazooka disparando_4
+  - first:
+      213: -6444778586780220487
+    second: Soldado bazooka disparando_5
+  - first:
+      213: -6355947513586300290
+    second: Soldado bazooka disparando_6
+  - first:
+      213: -397180913216047696
+    second: Soldado bazooka disparando_7
+  - first:
+      213: -6048409487807573952
+    second: Soldado bazooka disparando_8
+  - first:
+      213: -8319003260298684629
+    second: Soldado bazooka disparando_9
+  - first:
+      213: 3330750734222678374
+    second: Soldado bazooka disparando_10
+  - first:
+      213: 2905122458951296008
+    second: Soldado bazooka disparando_11
+  - first:
+      213: -1862612470008582488
+    second: Soldado bazooka disparando_12
+  - first:
+      213: -8674501861495366299
+    second: Soldado bazooka disparando_13
+  - first:
+      213: -4954448846348911258
+    second: Soldado bazooka disparando_14
+  - first:
+      213: -6613033778450467795
+    second: Soldado bazooka disparando_15
+  - first:
+      213: 2133270635962149290
+    second: Soldado bazooka disparando_16
+  - first:
+      213: -6852363909169430754
+    second: Soldado bazooka disparando_17
+  - first:
+      213: 6285439905109677260
+    second: Soldado bazooka disparando_18
+  - first:
+      213: -4791423630817399988
+    second: Soldado bazooka disparando_19
+  - first:
+      213: 4721560982860410165
+    second: Soldado bazooka disparando_20
+  - first:
+      213: 7189099687528421085
+    second: Soldado bazooka disparando_21
+  - first:
+      213: -8190618182060123405
+    second: Soldado bazooka disparando_22
+  - first:
+      213: -4126590282942103139
+    second: Soldado bazooka disparando_23
+  - first:
+      213: 8893436042602449866
+    second: Soldado bazooka disparando_24
+  - first:
+      213: -5721391071285279512
+    second: Soldado bazooka disparando_25
+  - first:
+      213: 3034712372544800940
+    second: Soldado bazooka disparando_26
+  - first:
+      213: 9184294638720883702
+    second: Soldado bazooka disparando_27
+  - first:
+      213: -1434225328440719171
+    second: Soldado bazooka disparando_28
+  - first:
+      213: -4131257329039137491
+    second: Soldado bazooka disparando_29
+  - first:
+      213: 2748272111231335584
+    second: Soldado bazooka disparando_30
+  - first:
+      213: -3586774618599424348
+    second: Soldado bazooka disparando_31
+  - first:
+      213: -8604952352679955313
+    second: Soldado bazooka disparando_32
+  - first:
+      213: 756104702361750669
+    second: Soldado bazooka disparando_33
+  - first:
+      213: -1317101648489067379
+    second: Soldado bazooka disparando_34
+  - first:
+      213: 2740784151284659220
+    second: Soldado bazooka disparando_35
+  - first:
+      213: 7206915624444599594
+    second: Soldado bazooka disparando_36
+  - first:
+      213: -4623030546470609573
+    second: Soldado bazooka disparando_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Soldado bazooka disparando_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2550
+        width: 640
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb231e0502be3f90800000000000000
+      internalID: -6971939438342231053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka disparando_1
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2550
+        width: 640
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14daf38cbb953dc20800000000000000
+      internalID: 3230024020808150337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka disparando_2
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2550
+        width: 640
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f05ca0945796920800000000000000
+      internalID: 2984045184683413336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka disparando_3
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2550
+        width: 640
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff706a6262254b70800000000000000
+      internalID: 8882543646145019895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka disparando_4
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2550
+        width: 640
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea20fc536d3736520800000000000000
+      internalID: 2694124365960643246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka disparando_5
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2550
+        width: 640
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3cbee650c8f86a0800000000000000
+      internalID: -6444778586780220487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka disparando_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2040
+        width: 640
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a49a169632bc7a0800000000000000
+      internalID: -6355947513586300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka disparando_7
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2040
+        width: 640
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b53134501eec7af0800000000000000
+      internalID: -397180913216047696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka disparando_8
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2040
+        width: 640
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040902fdd9bbf0ca0800000000000000
+      internalID: -6048409487807573952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka disparando_9
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2040
+        width: 640
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2794985c96fc8c80800000000000000
+      internalID: -8319003260298684629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka disparando_10
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2040
+        width: 640
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669d6bc4524393e20800000000000000
+      internalID: 3330750734222678374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka disparando_11
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2040
+        width: 640
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8042dc20c71115820800000000000000
+      internalID: 2905122458951296008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka disparando_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1530
+        width: 640
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aeeceab3dba626e0800000000000000
+      internalID: -1862612470008582488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka disparando_13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1530
+        width: 640
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d9a16348afd9780800000000000000
+      internalID: -8674501861495366299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka disparando_14
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1530
+        width: 640
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d778726034e3bb0800000000000000
+      internalID: -4954448846348911258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka disparando_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1530
+        width: 640
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24fccbd0d8c934a0800000000000000
+      internalID: -6613033778450467795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka disparando_16
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1530
+        width: 640
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9ab424756ea9d10800000000000000
+      internalID: 2133270635962149290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka disparando_17
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1530
+        width: 640
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fbf3a745387e0a0800000000000000
+      internalID: -6852363909169430754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka disparando_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1020
+        width: 640
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc49021ca4e5a3750800000000000000
+      internalID: 6285439905109677260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka disparando_19
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1020
+        width: 640
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b67b40891718db0800000000000000
+      internalID: -4791423630817399988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka disparando_20
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1020
+        width: 640
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d2db0b2ba568140800000000000000
+      internalID: 4721560982860410165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka disparando_21
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1020
+        width: 640
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6d00a8310d4c360800000000000000
+      internalID: 7189099687528421085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka disparando_22
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1020
+        width: 640
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa537fb824155e80800000000000000
+      internalID: -8190618182060123405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka disparando_23
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1020
+        width: 640
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9148a350086bb6c0800000000000000
+      internalID: -4126590282942103139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka disparando_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 640
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb89f716f4db6b70800000000000000
+      internalID: 8893436042602449866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka disparando_25
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 510
+        width: 640
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e403f642298990b0800000000000000
+      internalID: -5721391071285279512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka disparando_26
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 510
+        width: 640
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8040103d67d1a20800000000000000
+      internalID: 3034712372544800940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka disparando_27
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 510
+        width: 640
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb9b7d305b257f70800000000000000
+      internalID: 9184294638720883702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka disparando_28
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 510
+        width: 640
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db84c62a9ab981ce0800000000000000
+      internalID: -1434225328440719171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka disparando_29
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 510
+        width: 640
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25a4eaf853daa6c0800000000000000
+      internalID: -4131257329039137491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka disparando_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 640
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac7e089ce2d32620800000000000000
+      internalID: 2748272111231335584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka disparando_31
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 640
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae7ef8ec77393ec0800000000000000
+      internalID: -3586774618599424348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka disparando_32
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 640
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84795d1d61159880800000000000000
+      internalID: -8604952352679955313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka disparando_33
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 640
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c464588393e7a00800000000000000
+      internalID: 756104702361750669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka disparando_34
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 640
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c4abc6707b8bde0800000000000000
+      internalID: -1317101648489067379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka disparando_35
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 640
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414b75f0aa8390620800000000000000
+      internalID: 2740784151284659220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9d927218e29e1fe4999885d82aa13f44
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":6.0},"gridSpriteSize":{"x":640.0,"y":510.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Soldado bazooka disparando_0: -6971939438342231053
+      Soldado bazooka disparando_1: 3230024020808150337
+      Soldado bazooka disparando_10: 3330750734222678374
+      Soldado bazooka disparando_11: 2905122458951296008
+      Soldado bazooka disparando_12: -1862612470008582488
+      Soldado bazooka disparando_13: -8674501861495366299
+      Soldado bazooka disparando_14: -4954448846348911258
+      Soldado bazooka disparando_15: -6613033778450467795
+      Soldado bazooka disparando_16: 2133270635962149290
+      Soldado bazooka disparando_17: -6852363909169430754
+      Soldado bazooka disparando_18: 6285439905109677260
+      Soldado bazooka disparando_19: -4791423630817399988
+      Soldado bazooka disparando_2: 2984045184683413336
+      Soldado bazooka disparando_20: 4721560982860410165
+      Soldado bazooka disparando_21: 7189099687528421085
+      Soldado bazooka disparando_22: -8190618182060123405
+      Soldado bazooka disparando_23: -4126590282942103139
+      Soldado bazooka disparando_24: 8893436042602449866
+      Soldado bazooka disparando_25: -5721391071285279512
+      Soldado bazooka disparando_26: 3034712372544800940
+      Soldado bazooka disparando_27: 9184294638720883702
+      Soldado bazooka disparando_28: -1434225328440719171
+      Soldado bazooka disparando_29: -4131257329039137491
+      Soldado bazooka disparando_3: 8882543646145019895
+      Soldado bazooka disparando_30: 2748272111231335584
+      Soldado bazooka disparando_31: -3586774618599424348
+      Soldado bazooka disparando_32: -8604952352679955313
+      Soldado bazooka disparando_33: 756104702361750669
+      Soldado bazooka disparando_34: -1317101648489067379
+      Soldado bazooka disparando_35: 2740784151284659220
+      Soldado bazooka disparando_4: 2694124365960643246
+      Soldado bazooka disparando_5: -6444778586780220487
+      Soldado bazooka disparando_6: -6355947513586300290
+      Soldado bazooka disparando_7: -397180913216047696
+      Soldado bazooka disparando_8: -6048409487807573952
+      Soldado bazooka disparando_9: -8319003260298684629
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

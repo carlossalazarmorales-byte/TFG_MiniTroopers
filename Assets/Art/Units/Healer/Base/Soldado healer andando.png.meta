@@ -1,0 +1,298 @@
+fileFormatVersion: 2
+guid: 90579d3b62c1ec74bb6f7e35dd12d9fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2695727356559458717
+    second: Soldado healer andando_0
+  - first:
+      213: -2688374856628754450
+    second: Soldado healer andando_1
+  - first:
+      213: -1193291558839067282
+    second: Soldado healer andando_2
+  - first:
+      213: -7697767362002773699
+    second: Soldado healer andando_3
+  - first:
+      213: -4613512570424426621
+    second: Soldado healer andando_4
+  - first:
+      213: 24055437250027837
+    second: Soldado healer andando_5
+  - first:
+      213: 7284736229131283476
+    second: Soldado healer andando_6
+  - first:
+      213: -2216906753297519982
+    second: Soldado healer andando_7
+  - first:
+      213: -6522842380695484943
+    second: Soldado healer andando_8
+  - first:
+      213: 7344344111628502981
+    second: Soldado healer andando_9
+  - first:
+      213: -4897681826060886774
+    second: Soldado healer andando_10
+  - first:
+      213: 3557830565820816790
+    second: Soldado healer andando_11
+  - first:
+      213: 857125665104530851
+    second: Soldado healer andando_12
+  - first:
+      213: -6140565477937563688
+    second: Soldado healer andando_13
+  - first:
+      213: 5073017767838477313
+    second: Soldado healer andando_14
+  - first:
+      213: -1777106699366225623
+    second: Soldado healer andando_15
+  - first:
+      213: -7033033376632400247
+    second: Soldado healer andando_16
+  - first:
+      213: 9109505278409747773
+    second: Soldado healer andando_17
+  - first:
+      213: -1600425422516420963
+    second: Soldado healer andando_18
+  - first:
+      213: 8226442995261366939
+    second: Soldado healer andando_19
+  - first:
+      213: 6867814564225773246
+    second: Soldado healer andando_20
+  - first:
+      213: -4794233607242985133
+    second: Soldado healer andando_21
+  - first:
+      213: 27335300091502797
+    second: Soldado healer andando_22
+  - first:
+      213: 8158553939393736346
+    second: Soldado healer andando_23
+  - first:
+      213: -5660998110368151887
+    second: Soldado healer andando_24
+  - first:
+      213: -8169496408886290224
+    second: Soldado healer andando_25
+  - first:
+      213: -4294664209715286047
+    second: Soldado healer andando_26
+  - first:
+      213: 762448949600485229
+    second: Soldado healer andando_27
+  - first:
+      213: 2426112960124602549
+    second: Soldado healer andando_28
+  - first:
+      213: 6051905034421159473
+    second: Soldado healer andando_29
+  - first:
+      213: -7176539934344072685
+    second: Soldado healer andando_30
+  - first:
+      213: 5901045314965070692
+    second: Soldado healer andando_31
+  - first:
+      213: 8975569109077689941
+    second: Soldado healer andando_32
+  - first:
+      213: -99299765892810025
+    second: Soldado healer andando_33
+  - first:
+      213: -8403128012176877521
+    second: Soldado healer andando_34
+  - first:
+      213: 8622652836211946292
+    second: Soldado healer andando_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Soldado healer andando_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2830
+        width: 328
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91870b8fb5296520800000000000000
+      internalID: 2695727356559458717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c74ede465e8509c41bdd3558b2ad9634
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":6.0},"gridSpriteSize":{"x":328.0,"y":566.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Soldado healer andando_0: 2695727356559458717
+      Soldado healer andando_1: -2688374856628754450
+      Soldado healer andando_10: -4897681826060886774
+      Soldado healer andando_11: 3557830565820816790
+      Soldado healer andando_12: 857125665104530851
+      Soldado healer andando_13: -6140565477937563688
+      Soldado healer andando_14: 5073017767838477313
+      Soldado healer andando_15: -1777106699366225623
+      Soldado healer andando_16: -7033033376632400247
+      Soldado healer andando_17: 9109505278409747773
+      Soldado healer andando_18: -1600425422516420963
+      Soldado healer andando_19: 8226442995261366939
+      Soldado healer andando_2: -1193291558839067282
+      Soldado healer andando_20: 6867814564225773246
+      Soldado healer andando_21: -4794233607242985133
+      Soldado healer andando_22: 27335300091502797
+      Soldado healer andando_23: 8158553939393736346
+      Soldado healer andando_24: -5660998110368151887
+      Soldado healer andando_25: -8169496408886290224
+      Soldado healer andando_26: -4294664209715286047
+      Soldado healer andando_27: 762448949600485229
+      Soldado healer andando_28: 2426112960124602549
+      Soldado healer andando_29: 6051905034421159473
+      Soldado healer andando_3: -7697767362002773699
+      Soldado healer andando_30: -7176539934344072685
+      Soldado healer andando_31: 5901045314965070692
+      Soldado healer andando_32: 8975569109077689941
+      Soldado healer andando_33: -99299765892810025
+      Soldado healer andando_34: -8403128012176877521
+      Soldado healer andando_35: 8622652836211946292
+      Soldado healer andando_4: -4613512570424426621
+      Soldado healer andando_5: 24055437250027837
+      Soldado healer andando_6: 7284736229131283476
+      Soldado healer andando_7: -2216906753297519982
+      Soldado healer andando_8: -6522842380695484943
+      Soldado healer andando_9: 7344344111628502981
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

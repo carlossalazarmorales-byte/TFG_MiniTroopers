@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: 50e6288e27c6d5140a5f5b1adf11ad89
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3161033850431767782
+    second: Soldado healer muriendo_0
+  - first:
+      213: -1050916774695500824
+    second: Soldado healer muriendo_1
+  - first:
+      213: 6994704414098654308
+    second: Soldado healer muriendo_2
+  - first:
+      213: 8006433302965949421
+    second: Soldado healer muriendo_3
+  - first:
+      213: 129029840220030650
+    second: Soldado healer muriendo_4
+  - first:
+      213: 2226155324068598562
+    second: Soldado healer muriendo_5
+  - first:
+      213: -5011534126331442140
+    second: Soldado healer muriendo_6
+  - first:
+      213: 2847120182447506185
+    second: Soldado healer muriendo_7
+  - first:
+      213: 1689127767839660760
+    second: Soldado healer muriendo_8
+  - first:
+      213: 3780540105638525539
+    second: Soldado healer muriendo_9
+  - first:
+      213: 449048057146393290
+    second: Soldado healer muriendo_10
+  - first:
+      213: -8129228407293738615
+    second: Soldado healer muriendo_11
+  - first:
+      213: 3902441991011693148
+    second: Soldado healer muriendo_12
+  - first:
+      213: 7297200946067719930
+    second: Soldado healer muriendo_13
+  - first:
+      213: 7568117204588931712
+    second: Soldado healer muriendo_14
+  - first:
+      213: -5777789457303017743
+    second: Soldado healer muriendo_15
+  - first:
+      213: -6359009985827915827
+    second: Soldado healer muriendo_16
+  - first:
+      213: -8298760549055176826
+    second: Soldado healer muriendo_17
+  - first:
+      213: 6117432169823057649
+    second: Soldado healer muriendo_18
+  - first:
+      213: 8921818627931774040
+    second: Soldado healer muriendo_19
+  - first:
+      213: 4375091199049371831
+    second: Soldado healer muriendo_20
+  - first:
+      213: -853405117362799844
+    second: Soldado healer muriendo_21
+  - first:
+      213: -1731349529677016297
+    second: Soldado healer muriendo_22
+  - first:
+      213: 6802583308475705015
+    second: Soldado healer muriendo_23
+  - first:
+      213: -6976791581859456476
+    second: Soldado healer muriendo_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Soldado healer muriendo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1888
+        width: 432
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b770ef570c124d0800000000000000
+      internalID: -3161033850431767782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer muriendo_1
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1888
+        width: 432
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e386cbe2c46a61f0800000000000000
+      internalID: -1050916774695500824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer muriendo_2
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1888
+        width: 432
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4640537ea9e221160800000000000000
+      internalID: 6994704414098654308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer muriendo_3
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1888
+        width: 432
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3942d4ba09c1f60800000000000000
+      internalID: 8006433302965949421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer muriendo_4
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1888
+        width: 432
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab68dbfb4f76ac100800000000000000
+      internalID: 129029840220030650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer muriendo_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1416
+        width: 432
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22314f9f874e4ee10800000000000000
+      internalID: 2226155324068598562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer muriendo_6
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1416
+        width: 432
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c444ca344737ab0800000000000000
+      internalID: -5011534126331442140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer muriendo_7
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1416
+        width: 432
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90301a3a8b0038720800000000000000
+      internalID: 2847120182447506185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer muriendo_8
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1416
+        width: 432
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dad45661ccf07710800000000000000
+      internalID: 1689127767839660760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer muriendo_9
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1416
+        width: 432
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ab3b7223d277430800000000000000
+      internalID: 3780540105638525539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer muriendo_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 944
+        width: 432
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac24a4d24d65b3600800000000000000
+      internalID: 449048057146393290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer muriendo_11
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 944
+        width: 432
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9810e3585dd2f2f80800000000000000
+      internalID: -8129228407293738615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer muriendo_12
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 944
+        width: 432
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52f1d69052482630800000000000000
+      internalID: 3902441991011693148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer muriendo_13
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 944
+        width: 432
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6c205299dd44560800000000000000
+      internalID: 7297200946067719930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer muriendo_14
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 944
+        width: 432
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08aab0eff7a570960800000000000000
+      internalID: 7568117204588931712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer muriendo_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472
+        width: 432
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6e472c91b21dfa0800000000000000
+      internalID: -5777789457303017743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer muriendo_16
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 472
+        width: 432
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7b09ffb1240c7a0800000000000000
+      internalID: -6359009985827915827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer muriendo_17
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 472
+        width: 432
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f5a85df31e4dc80800000000000000
+      internalID: -8298760549055176826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer muriendo_18
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 472
+        width: 432
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6b9db952c75e450800000000000000
+      internalID: 6117432169823057649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer muriendo_19
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 472
+        width: 432
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c1654b5caa0db70800000000000000
+      internalID: 8921818627931774040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer muriendo_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 432
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0964be34277bc30800000000000000
+      internalID: 4375091199049371831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer muriendo_21
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 432
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bf61a31981824f0800000000000000
+      internalID: -853405117362799844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer muriendo_22
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 432
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713df8d96c209f7e0800000000000000
+      internalID: -1731349529677016297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer muriendo_23
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 0
+        width: 432
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b622b83a71a76e50800000000000000
+      internalID: 6802583308475705015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado healer muriendo_24
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 0
+        width: 432
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ad45b55057d2f90800000000000000
+      internalID: -6976791581859456476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d85471d5051223b46923c6f62c7662df
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":5.0},"gridSpriteSize":{"x":432.0,"y":472.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Soldado healer muriendo_0: -3161033850431767782
+      Soldado healer muriendo_1: -1050916774695500824
+      Soldado healer muriendo_10: 449048057146393290
+      Soldado healer muriendo_11: -8129228407293738615
+      Soldado healer muriendo_12: 3902441991011693148
+      Soldado healer muriendo_13: 7297200946067719930
+      Soldado healer muriendo_14: 7568117204588931712
+      Soldado healer muriendo_15: -5777789457303017743
+      Soldado healer muriendo_16: -6359009985827915827
+      Soldado healer muriendo_17: -8298760549055176826
+      Soldado healer muriendo_18: 6117432169823057649
+      Soldado healer muriendo_19: 8921818627931774040
+      Soldado healer muriendo_2: 6994704414098654308
+      Soldado healer muriendo_20: 4375091199049371831
+      Soldado healer muriendo_21: -853405117362799844
+      Soldado healer muriendo_22: -1731349529677016297
+      Soldado healer muriendo_23: 6802583308475705015
+      Soldado healer muriendo_24: -6976791581859456476
+      Soldado healer muriendo_3: 8006433302965949421
+      Soldado healer muriendo_4: 129029840220030650
+      Soldado healer muriendo_5: 2226155324068598562
+      Soldado healer muriendo_6: -5011534126331442140
+      Soldado healer muriendo_7: 2847120182447506185
+      Soldado healer muriendo_8: 1689127767839660760
+      Soldado healer muriendo_9: 3780540105638525539
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

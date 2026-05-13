@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: 55f7d131d9928cd4fb5a47404afeb2d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1035258355141523753
+    second: Soldado pistola disparando_0
+  - first:
+      213: 6391649600648426306
+    second: Soldado pistola disparando_1
+  - first:
+      213: -4844219393529967547
+    second: Soldado pistola disparando_2
+  - first:
+      213: -3068292915598867687
+    second: Soldado pistola disparando_3
+  - first:
+      213: 1164883603493930351
+    second: Soldado pistola disparando_4
+  - first:
+      213: 4962556528892652790
+    second: Soldado pistola disparando_5
+  - first:
+      213: -670070524301741825
+    second: Soldado pistola disparando_6
+  - first:
+      213: -7834779776854171733
+    second: Soldado pistola disparando_7
+  - first:
+      213: 8256412262204234212
+    second: Soldado pistola disparando_8
+  - first:
+      213: 6060564027380496559
+    second: Soldado pistola disparando_9
+  - first:
+      213: 4686697607155476174
+    second: Soldado pistola disparando_10
+  - first:
+      213: -2092956459657086907
+    second: Soldado pistola disparando_11
+  - first:
+      213: -3931243505759498698
+    second: Soldado pistola disparando_12
+  - first:
+      213: 4087065325545755542
+    second: Soldado pistola disparando_13
+  - first:
+      213: -4330553114574980757
+    second: Soldado pistola disparando_14
+  - first:
+      213: 582049726429993637
+    second: Soldado pistola disparando_15
+  - first:
+      213: 5374933359228988303
+    second: Soldado pistola disparando_16
+  - first:
+      213: -1502980809518141843
+    second: Soldado pistola disparando_17
+  - first:
+      213: 8622839475845713783
+    second: Soldado pistola disparando_18
+  - first:
+      213: -5842734184757208910
+    second: Soldado pistola disparando_19
+  - first:
+      213: 3176332669119004438
+    second: Soldado pistola disparando_20
+  - first:
+      213: -7441463677947971801
+    second: Soldado pistola disparando_21
+  - first:
+      213: -5222501043637933461
+    second: Soldado pistola disparando_22
+  - first:
+      213: 8370042233276499843
+    second: Soldado pistola disparando_23
+  - first:
+      213: 5699615165652218352
+    second: Soldado pistola disparando_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Soldado pistola disparando_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2088
+        width: 640
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6c803d20602a1f0800000000000000
+      internalID: -1035258355141523753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola disparando_1
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2088
+        width: 640
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243ba678273b3b850800000000000000
+      internalID: 6391649600648426306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola disparando_2
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2088
+        width: 640
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c869a9020e5ccb0800000000000000
+      internalID: -4844219393529967547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola disparando_3
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2088
+        width: 640
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913c1ea89db3b65d0800000000000000
+      internalID: -3068292915598867687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola disparando_4
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2088
+        width: 640
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65ceee277f7a2010800000000000000
+      internalID: 1164883603493930351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola disparando_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1566
+        width: 640
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc217aceda8ed440800000000000000
+      internalID: 4962556528892652790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola disparando_6
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1566
+        width: 640
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0f888886e63b6f0800000000000000
+      internalID: -670070524301741825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola disparando_7
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1566
+        width: 640
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf513bad45454390800000000000000
+      internalID: -7834779776854171733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola disparando_8
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1566
+        width: 640
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9dcd7453ba49270800000000000000
+      internalID: 8256412262204234212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola disparando_9
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1566
+        width: 640
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa876866fd27b1450800000000000000
+      internalID: 6060564027380496559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola disparando_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1044
+        width: 640
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6ec2c74ae7a0140800000000000000
+      internalID: 4686697607155476174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola disparando_11
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1044
+        width: 640
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548b7cb503354f2e0800000000000000
+      internalID: -2092956459657086907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola disparando_12
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1044
+        width: 640
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ec4a13cda6179c0800000000000000
+      internalID: -3931243505759498698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola disparando_13
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1044
+        width: 640
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69398f6624c28b830800000000000000
+      internalID: 4087065325545755542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola disparando_14
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1044
+        width: 640
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69fbc4f2e8c6e3c0800000000000000
+      internalID: -4330553114574980757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola disparando_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 522
+        width: 640
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa1971742bd31800800000000000000
+      internalID: 582049726429993637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola disparando_16
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 522
+        width: 640
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8bad30a969979a40800000000000000
+      internalID: 5374933359228988303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola disparando_17
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 522
+        width: 640
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e2178bae6542be0800000000000000
+      internalID: -1502980809518141843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola disparando_18
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 522
+        width: 640
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77fcff841da7aa770800000000000000
+      internalID: 8622839475845713783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola disparando_19
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 522
+        width: 640
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8d38017307aeea0800000000000000
+      internalID: -5842734184757208910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola disparando_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 640
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f7e4fcbb9941c20800000000000000
+      internalID: 3176332669119004438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola disparando_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 640
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72770f2263c9ab890800000000000000
+      internalID: -7441463677947971801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola disparando_22
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 640
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6aaad688f2f587b0800000000000000
+      internalID: -5222501043637933461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola disparando_23
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 640
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3878675901d582470800000000000000
+      internalID: 8370042233276499843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado pistola disparando_24
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 640
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f131299bc9191f40800000000000000
+      internalID: 5699615165652218352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 14544cac864a5d549902b8cd97b9dc8a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":5.0},"gridSpriteSize":{"x":640.0,"y":522.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Soldado pistola disparando_0: -1035258355141523753
+      Soldado pistola disparando_1: 6391649600648426306
+      Soldado pistola disparando_10: 4686697607155476174
+      Soldado pistola disparando_11: -2092956459657086907
+      Soldado pistola disparando_12: -3931243505759498698
+      Soldado pistola disparando_13: 4087065325545755542
+      Soldado pistola disparando_14: -4330553114574980757
+      Soldado pistola disparando_15: 582049726429993637
+      Soldado pistola disparando_16: 5374933359228988303
+      Soldado pistola disparando_17: -1502980809518141843
+      Soldado pistola disparando_18: 8622839475845713783
+      Soldado pistola disparando_19: -5842734184757208910
+      Soldado pistola disparando_2: -4844219393529967547
+      Soldado pistola disparando_20: 3176332669119004438
+      Soldado pistola disparando_21: -7441463677947971801
+      Soldado pistola disparando_22: -5222501043637933461
+      Soldado pistola disparando_23: 8370042233276499843
+      Soldado pistola disparando_24: 5699615165652218352
+      Soldado pistola disparando_3: -3068292915598867687
+      Soldado pistola disparando_4: 1164883603493930351
+      Soldado pistola disparando_5: 4962556528892652790
+      Soldado pistola disparando_6: -670070524301741825
+      Soldado pistola disparando_7: -7834779776854171733
+      Soldado pistola disparando_8: 8256412262204234212
+      Soldado pistola disparando_9: 6060564027380496559
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

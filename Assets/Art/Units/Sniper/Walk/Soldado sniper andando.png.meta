@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: a8a7ec6194cd3ba4896b620fd8e16dc6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7390678987189236842
+    second: Soldado sniper andando_0
+  - first:
+      213: 8926295527897327235
+    second: Soldado sniper andando_1
+  - first:
+      213: 7949326279267143088
+    second: Soldado sniper andando_2
+  - first:
+      213: 6482513639322607682
+    second: Soldado sniper andando_3
+  - first:
+      213: -1696825401153649105
+    second: Soldado sniper andando_4
+  - first:
+      213: 2993541991668576035
+    second: Soldado sniper andando_5
+  - first:
+      213: 8957807806533686257
+    second: Soldado sniper andando_6
+  - first:
+      213: 5035172322880499296
+    second: Soldado sniper andando_7
+  - first:
+      213: -8424271861468678021
+    second: Soldado sniper andando_8
+  - first:
+      213: 2865849142224556093
+    second: Soldado sniper andando_9
+  - first:
+      213: 1684641995218325370
+    second: Soldado sniper andando_10
+  - first:
+      213: 3784068973440173372
+    second: Soldado sniper andando_11
+  - first:
+      213: 8944812679218724505
+    second: Soldado sniper andando_12
+  - first:
+      213: -8112097529491035709
+    second: Soldado sniper andando_13
+  - first:
+      213: 6606667981418871955
+    second: Soldado sniper andando_14
+  - first:
+      213: -1169382997624485763
+    second: Soldado sniper andando_15
+  - first:
+      213: -141055236448740978
+    second: Soldado sniper andando_16
+  - first:
+      213: -5518774593132456031
+    second: Soldado sniper andando_17
+  - first:
+      213: -5645166666259108182
+    second: Soldado sniper andando_18
+  - first:
+      213: 414759004954738333
+    second: Soldado sniper andando_19
+  - first:
+      213: 5825383530331302182
+    second: Soldado sniper andando_20
+  - first:
+      213: -7398529546574413125
+    second: Soldado sniper andando_21
+  - first:
+      213: -5448565202051675751
+    second: Soldado sniper andando_22
+  - first:
+      213: 5213665009428779693
+    second: Soldado sniper andando_23
+  - first:
+      213: -2144491870724159843
+    second: Soldado sniper andando_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Soldado sniper andando_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2272
+        width: 472
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64bb50a167f09660800000000000000
+      internalID: 7390678987189236842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper andando_1
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 2272
+        width: 472
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3866a743d7290eb70800000000000000
+      internalID: 8926295527897327235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper andando_2
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 2272
+        width: 472
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd4567322ea15e60800000000000000
+      internalID: 7949326279267143088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper andando_3
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 2272
+        width: 472
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240e2732fc386f950800000000000000
+      internalID: 6482513639322607682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper andando_4
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 2272
+        width: 472
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26806ea94aa378e0800000000000000
+      internalID: -1696825401153649105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper andando_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1704
+        width: 472
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fee99b4923b8920800000000000000
+      internalID: 2993541991668576035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper andando_6
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1704
+        width: 472
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f359a25db6805c70800000000000000
+      internalID: 8957807806533686257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper andando_7
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1704
+        width: 472
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06eab28dc8680e540800000000000000
+      internalID: 5035172322880499296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper andando_8
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1704
+        width: 472
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7837dd2069f61b80800000000000000
+      internalID: -8424271861468678021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper andando_9
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 1704
+        width: 472
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3017266c9a85c720800000000000000
+      internalID: 2865849142224556093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper andando_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1136
+        width: 472
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f81b218fc016710800000000000000
+      internalID: 1684641995218325370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper andando_11
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1136
+        width: 472
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c358a77bea6b38430800000000000000
+      internalID: 3784068973440173372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper andando_12
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1136
+        width: 472
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99efd377dbb522c70800000000000000
+      internalID: 8944812679218724505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper andando_13
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1136
+        width: 472
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9ec53d64a0c6f80800000000000000
+      internalID: -8112097529491035709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper andando_14
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 1136
+        width: 472
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c3b6586899fab50800000000000000
+      internalID: 6606667981418871955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper andando_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 568
+        width: 472
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78063cfb5485cfe0800000000000000
+      internalID: -1169382997624485763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper andando_16
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 568
+        width: 472
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8993c1820fda0ef0800000000000000
+      internalID: -141055236448740978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper andando_17
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 568
+        width: 472
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a793ec4fbf5963b0800000000000000
+      internalID: -5518774593132456031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper andando_18
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 568
+        width: 472
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaeefbf83d658a1b0800000000000000
+      internalID: -5645166666259108182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper andando_19
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 568
+        width: 472
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9eb8b51e1581c500800000000000000
+      internalID: 414759004954738333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper andando_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 472
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629eec5e47be7d050800000000000000
+      internalID: 5825383530331302182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper andando_21
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 0
+        width: 472
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb243349394235990800000000000000
+      internalID: -7398529546574413125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper andando_22
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 0
+        width: 472
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999c72401dec264b0800000000000000
+      internalID: -5448565202051675751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper andando_23
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 0
+        width: 472
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2d2e0f3b8aa5840800000000000000
+      internalID: 5213665009428779693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado sniper andando_24
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 0
+        width: 472
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9606cd610c3d32e0800000000000000
+      internalID: -2144491870724159843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c81c7519887c31f47bb15477bc603476
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":5.0},"gridSpriteSize":{"x":472.0,"y":568.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Soldado sniper andando_0: 7390678987189236842
+      Soldado sniper andando_1: 8926295527897327235
+      Soldado sniper andando_10: 1684641995218325370
+      Soldado sniper andando_11: 3784068973440173372
+      Soldado sniper andando_12: 8944812679218724505
+      Soldado sniper andando_13: -8112097529491035709
+      Soldado sniper andando_14: 6606667981418871955
+      Soldado sniper andando_15: -1169382997624485763
+      Soldado sniper andando_16: -141055236448740978
+      Soldado sniper andando_17: -5518774593132456031
+      Soldado sniper andando_18: -5645166666259108182
+      Soldado sniper andando_19: 414759004954738333
+      Soldado sniper andando_2: 7949326279267143088
+      Soldado sniper andando_20: 5825383530331302182
+      Soldado sniper andando_21: -7398529546574413125
+      Soldado sniper andando_22: -5448565202051675751
+      Soldado sniper andando_23: 5213665009428779693
+      Soldado sniper andando_24: -2144491870724159843
+      Soldado sniper andando_3: 6482513639322607682
+      Soldado sniper andando_4: -1696825401153649105
+      Soldado sniper andando_5: 2993541991668576035
+      Soldado sniper andando_6: 8957807806533686257
+      Soldado sniper andando_7: 5035172322880499296
+      Soldado sniper andando_8: -8424271861468678021
+      Soldado sniper andando_9: 2865849142224556093
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

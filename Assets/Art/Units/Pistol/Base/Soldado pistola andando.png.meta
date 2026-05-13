@@ -1,0 +1,254 @@
+fileFormatVersion: 2
+guid: a16401749185e3d4b8af30e63acdd013
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1092772784957045339
+    second: Soldado pistola andando_0
+  - first:
+      213: 4012777201503384836
+    second: Soldado pistola andando_1
+  - first:
+      213: 6983746036988943870
+    second: Soldado pistola andando_2
+  - first:
+      213: -1439921197364999879
+    second: Soldado pistola andando_3
+  - first:
+      213: 2744008028329872180
+    second: Soldado pistola andando_4
+  - first:
+      213: 4862010060719766439
+    second: Soldado pistola andando_5
+  - first:
+      213: 1925962581373849500
+    second: Soldado pistola andando_6
+  - first:
+      213: 2842210526095758212
+    second: Soldado pistola andando_7
+  - first:
+      213: -4183806019058248309
+    second: Soldado pistola andando_8
+  - first:
+      213: -5081152177318903949
+    second: Soldado pistola andando_9
+  - first:
+      213: 1589785102350860627
+    second: Soldado pistola andando_10
+  - first:
+      213: 7065351033417290389
+    second: Soldado pistola andando_11
+  - first:
+      213: -2781554622312524760
+    second: Soldado pistola andando_12
+  - first:
+      213: 8492516935288569786
+    second: Soldado pistola andando_13
+  - first:
+      213: -1522046020555131781
+    second: Soldado pistola andando_14
+  - first:
+      213: 671437679527238272
+    second: Soldado pistola andando_15
+  - first:
+      213: 7081253401435067191
+    second: Soldado pistola andando_16
+  - first:
+      213: 3552927103883559397
+    second: Soldado pistola andando_17
+  - first:
+      213: -4441486540245120934
+    second: Soldado pistola andando_18
+  - first:
+      213: -5081702984897910274
+    second: Soldado pistola andando_19
+  - first:
+      213: -1278493146493181621
+    second: Soldado pistola andando_20
+  - first:
+      213: 626325915696852354
+    second: Soldado pistola andando_21
+  - first:
+      213: -2046413630327516249
+    second: Soldado pistola andando_22
+  - first:
+      213: 1632153624307149766
+    second: Soldado pistola andando_23
+  - first:
+      213: 1870134376981362112
+    second: Soldado pistola andando_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Soldado pistola andando_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2328
+        width: 330
+        height: 582
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5cb6c11f0b5d0f0800000000000000
+      internalID: -1092772784957045339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e4982a67cddb5f947a435ac5278e2fe7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":5.0},"gridSpriteSize":{"x":330.0,"y":582.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Soldado pistola andando_0: -1092772784957045339
+      Soldado pistola andando_1: 4012777201503384836
+      Soldado pistola andando_10: 1589785102350860627
+      Soldado pistola andando_11: 7065351033417290389
+      Soldado pistola andando_12: -2781554622312524760
+      Soldado pistola andando_13: 8492516935288569786
+      Soldado pistola andando_14: -1522046020555131781
+      Soldado pistola andando_15: 671437679527238272
+      Soldado pistola andando_16: 7081253401435067191
+      Soldado pistola andando_17: 3552927103883559397
+      Soldado pistola andando_18: -4441486540245120934
+      Soldado pistola andando_19: -5081702984897910274
+      Soldado pistola andando_2: 6983746036988943870
+      Soldado pistola andando_20: -1278493146493181621
+      Soldado pistola andando_21: 626325915696852354
+      Soldado pistola andando_22: -2046413630327516249
+      Soldado pistola andando_23: 1632153624307149766
+      Soldado pistola andando_24: 1870134376981362112
+      Soldado pistola andando_3: -1439921197364999879
+      Soldado pistola andando_4: 2744008028329872180
+      Soldado pistola andando_5: 4862010060719766439
+      Soldado pistola andando_6: 1925962581373849500
+      Soldado pistola andando_7: 2842210526095758212
+      Soldado pistola andando_8: -4183806019058248309
+      Soldado pistola andando_9: -5081152177318903949
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

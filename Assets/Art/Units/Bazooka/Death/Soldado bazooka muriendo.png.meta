@@ -1,0 +1,1113 @@
+fileFormatVersion: 2
+guid: 0f2ef14f0fbf8cf4bb108f3a75b1ca26
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1760965006357087619
+    second: Soldado bazooka muriendo_0
+  - first:
+      213: -2806171602817345506
+    second: Soldado bazooka muriendo_1
+  - first:
+      213: -2124563087391109636
+    second: Soldado bazooka muriendo_2
+  - first:
+      213: 9142015249562998147
+    second: Soldado bazooka muriendo_3
+  - first:
+      213: 2332266281686823929
+    second: Soldado bazooka muriendo_4
+  - first:
+      213: 8586465698616121394
+    second: Soldado bazooka muriendo_5
+  - first:
+      213: -4562763780875042512
+    second: Soldado bazooka muriendo_6
+  - first:
+      213: 9179240863483295644
+    second: Soldado bazooka muriendo_7
+  - first:
+      213: -3125844557294147072
+    second: Soldado bazooka muriendo_8
+  - first:
+      213: -2727875101771794473
+    second: Soldado bazooka muriendo_9
+  - first:
+      213: 2712887546721113955
+    second: Soldado bazooka muriendo_10
+  - first:
+      213: 5717341263867814698
+    second: Soldado bazooka muriendo_11
+  - first:
+      213: -394518931157242123
+    second: Soldado bazooka muriendo_12
+  - first:
+      213: 3501776767313934925
+    second: Soldado bazooka muriendo_13
+  - first:
+      213: -3942803296434637966
+    second: Soldado bazooka muriendo_14
+  - first:
+      213: 6345332312277084573
+    second: Soldado bazooka muriendo_15
+  - first:
+      213: 6514441299292125014
+    second: Soldado bazooka muriendo_16
+  - first:
+      213: -7874166517817506366
+    second: Soldado bazooka muriendo_17
+  - first:
+      213: 8344547520821164208
+    second: Soldado bazooka muriendo_18
+  - first:
+      213: -3599079799542929117
+    second: Soldado bazooka muriendo_19
+  - first:
+      213: 5465332291374991224
+    second: Soldado bazooka muriendo_20
+  - first:
+      213: -8101088169213627941
+    second: Soldado bazooka muriendo_21
+  - first:
+      213: -8862256389348949760
+    second: Soldado bazooka muriendo_22
+  - first:
+      213: 583054034250192243
+    second: Soldado bazooka muriendo_23
+  - first:
+      213: -4332082747234712926
+    second: Soldado bazooka muriendo_24
+  - first:
+      213: -578974564799255105
+    second: Soldado bazooka muriendo_25
+  - first:
+      213: 6979666027594876867
+    second: Soldado bazooka muriendo_26
+  - first:
+      213: -1140404541622449926
+    second: Soldado bazooka muriendo_27
+  - first:
+      213: 5825079163779182185
+    second: Soldado bazooka muriendo_28
+  - first:
+      213: -6880017520161178417
+    second: Soldado bazooka muriendo_29
+  - first:
+      213: 6740813200488604908
+    second: Soldado bazooka muriendo_30
+  - first:
+      213: 3687202671751240216
+    second: Soldado bazooka muriendo_31
+  - first:
+      213: 8857865013150080489
+    second: Soldado bazooka muriendo_32
+  - first:
+      213: -6973904725570489886
+    second: Soldado bazooka muriendo_33
+  - first:
+      213: -3619509051984032526
+    second: Soldado bazooka muriendo_34
+  - first:
+      213: -1708923746290214441
+    second: Soldado bazooka muriendo_35
+  - first:
+      213: 7719742149591774841
+    second: Soldado bazooka muriendo_36
+  - first:
+      213: -8634249817710800649
+    second: Soldado bazooka muriendo_37
+  - first:
+      213: -9165192744435320359
+    second: Soldado bazooka muriendo_38
+  - first:
+      213: -8674816331292350382
+    second: Soldado bazooka muriendo_39
+  - first:
+      213: -9007410884640631340
+    second: Soldado bazooka muriendo_40
+  - first:
+      213: 2082498068856070009
+    second: Soldado bazooka muriendo_41
+  - first:
+      213: 2378606386620357046
+    second: Soldado bazooka muriendo_42
+  - first:
+      213: 1423062460739147623
+    second: Soldado bazooka muriendo_43
+  - first:
+      213: 5455868032825264756
+    second: Soldado bazooka muriendo_44
+  - first:
+      213: -5924869190337508819
+    second: Soldado bazooka muriendo_45
+  - first:
+      213: -539553185449493520
+    second: Soldado bazooka muriendo_46
+  - first:
+      213: 5246577258902279315
+    second: Soldado bazooka muriendo_47
+  - first:
+      213: -25493401799311553
+    second: Soldado bazooka muriendo_48
+  - first:
+      213: -3741618423562498781
+    second: Soldado bazooka muriendo_49
+  - first:
+      213: -4487276225338176454
+    second: Soldado bazooka muriendo_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Soldado bazooka muriendo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2150
+        width: 624
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385cec1e754307810800000000000000
+      internalID: 1760965006357087619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka muriendo_1
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2150
+        width: 624
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1898438bc97e09d0800000000000000
+      internalID: -2806171602817345506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka muriendo_2
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 2150
+        width: 624
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd4521e0290482e0800000000000000
+      internalID: -2124563087391109636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka muriendo_3
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 2150
+        width: 624
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3851869de66fede70800000000000000
+      internalID: 9142015249562998147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka muriendo_4
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 2150
+        width: 624
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3709983dfdd5020800000000000000
+      internalID: 2332266281686823929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka muriendo_5
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 2150
+        width: 624
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23817125f01492770800000000000000
+      internalID: 8586465698616121394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka muriendo_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1720
+        width: 624
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031ccee048ecda0c0800000000000000
+      internalID: -4562763780875042512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka muriendo_7
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1720
+        width: 624
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97fbaf7ee6336f70800000000000000
+      internalID: 9179240863483295644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka muriendo_8
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1720
+        width: 624
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ae463cfe4ce94d0800000000000000
+      internalID: -3125844557294147072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka muriendo_9
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1720
+        width: 624
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7724f3c04a42ad0800000000000000
+      internalID: -2727875101771794473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka muriendo_10
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 1720
+        width: 624
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36794e9a9dc16a520800000000000000
+      internalID: 2712887546721113955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka muriendo_11
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1720
+        width: 624
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2326847693185f40800000000000000
+      internalID: 5717341263867814698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka muriendo_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1290
+        width: 624
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fea4335f13668af0800000000000000
+      internalID: -394518931157242123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka muriendo_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1290
+        width: 624
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a767aaa6fc89030800000000000000
+      internalID: 3501776767313934925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka muriendo_14
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1290
+        width: 624
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27336c0ba495849c0800000000000000
+      internalID: -3942803296434637966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka muriendo_15
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1290
+        width: 624
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9965177e162f0850800000000000000
+      internalID: 6345332312277084573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka muriendo_16
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 1290
+        width: 624
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657f072c8d1f76a50800000000000000
+      internalID: 6514441299292125014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka muriendo_17
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1290
+        width: 624
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5863b654759b290800000000000000
+      internalID: -7874166517817506366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka muriendo_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 860
+        width: 624
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b879e542c9cdc370800000000000000
+      internalID: 8344547520821164208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka muriendo_19
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 860
+        width: 624
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329a5f5bdff7d0ec0800000000000000
+      internalID: -3599079799542929117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka muriendo_20
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 860
+        width: 624
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877c0ee23c2c8db40800000000000000
+      internalID: 5465332291374991224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka muriendo_21
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 860
+        width: 624
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1f6e34b37239f80800000000000000
+      internalID: -8101088169213627941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka muriendo_22
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 860
+        width: 624
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0018b64a4c0f20580800000000000000
+      internalID: -8862256389348949760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka muriendo_23
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 860
+        width: 624
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37557541e8c671800800000000000000
+      internalID: 583054034250192243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka muriendo_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 430
+        width: 624
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a20a7991b951e3c0800000000000000
+      internalID: -4332082747234712926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka muriendo_25
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 430
+        width: 624
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd672b63b117f7f0800000000000000
+      internalID: -578974564799255105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka muriendo_26
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 430
+        width: 624
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c787a1b541ccd060800000000000000
+      internalID: 6979666027594876867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka muriendo_27
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 430
+        width: 624
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af80a5c8c187c20f0800000000000000
+      internalID: -1140404541622449926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka muriendo_28
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 430
+        width: 624
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e669903a6d6d050800000000000000
+      internalID: 5825079163779182185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka muriendo_29
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 430
+        width: 624
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc345e64844580a0800000000000000
+      internalID: -6880017520161178417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka muriendo_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 624
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4236834ed2c8d50800000000000000
+      internalID: 6740813200488604908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka muriendo_31
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 624
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a9a985b439b2330800000000000000
+      internalID: 3687202671751240216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka muriendo_32
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 0
+        width: 624
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eddb296c457dea70800000000000000
+      internalID: 8857865013150080489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka muriendo_33
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 0
+        width: 624
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1f3f6f996b73f90800000000000000
+      internalID: -6973904725570489886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka muriendo_34
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 0
+        width: 624
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc4e27b1bbe4cdc0800000000000000
+      internalID: -3619509051984032526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado bazooka muriendo_35
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 0
+        width: 624
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9542238eea848e0800000000000000
+      internalID: -1708923746290214441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 41b75478d2fd4594a90a55cc441d96e2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":6.0},"gridSpriteSize":{"x":624.0,"y":430.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Soldado bazooka muriendo_0: 1760965006357087619
+      Soldado bazooka muriendo_1: -2806171602817345506
+      Soldado bazooka muriendo_10: 2712887546721113955
+      Soldado bazooka muriendo_11: 5717341263867814698
+      Soldado bazooka muriendo_12: -394518931157242123
+      Soldado bazooka muriendo_13: 3501776767313934925
+      Soldado bazooka muriendo_14: -3942803296434637966
+      Soldado bazooka muriendo_15: 6345332312277084573
+      Soldado bazooka muriendo_16: 6514441299292125014
+      Soldado bazooka muriendo_17: -7874166517817506366
+      Soldado bazooka muriendo_18: 8344547520821164208
+      Soldado bazooka muriendo_19: -3599079799542929117
+      Soldado bazooka muriendo_2: -2124563087391109636
+      Soldado bazooka muriendo_20: 5465332291374991224
+      Soldado bazooka muriendo_21: -8101088169213627941
+      Soldado bazooka muriendo_22: -8862256389348949760
+      Soldado bazooka muriendo_23: 583054034250192243
+      Soldado bazooka muriendo_24: -4332082747234712926
+      Soldado bazooka muriendo_25: -578974564799255105
+      Soldado bazooka muriendo_26: 6979666027594876867
+      Soldado bazooka muriendo_27: -1140404541622449926
+      Soldado bazooka muriendo_28: 5825079163779182185
+      Soldado bazooka muriendo_29: -6880017520161178417
+      Soldado bazooka muriendo_3: 9142015249562998147
+      Soldado bazooka muriendo_30: 6740813200488604908
+      Soldado bazooka muriendo_31: 3687202671751240216
+      Soldado bazooka muriendo_32: 8857865013150080489
+      Soldado bazooka muriendo_33: -6973904725570489886
+      Soldado bazooka muriendo_34: -3619509051984032526
+      Soldado bazooka muriendo_35: -1708923746290214441
+      Soldado bazooka muriendo_4: 2332266281686823929
+      Soldado bazooka muriendo_5: 8586465698616121394
+      Soldado bazooka muriendo_6: -4562763780875042512
+      Soldado bazooka muriendo_7: 9179240863483295644
+      Soldado bazooka muriendo_8: -3125844557294147072
+      Soldado bazooka muriendo_9: -2727875101771794473
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

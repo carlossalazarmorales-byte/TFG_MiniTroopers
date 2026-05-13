@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4bbd2d2d1f30a54ab8799e2710a6bfd, type: 3}
+  m_Name: PE_DamageUp
+  m_EditorClassIdentifier: Assembly-CSharp::PerkEntry
+  perkId: damage_up
+  displayName: Damage Up
+  cardSprite: {fileID: 1992184948956231513, guid: b5330e6990447a74ea3dd3182ee26ac7, type: 3}

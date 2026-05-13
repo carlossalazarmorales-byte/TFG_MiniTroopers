@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3aa75b2c1df915448ae359e202bb2e60, type: 3}
+  m_Name: TE_Pistol
+  m_EditorClassIdentifier: Assembly-CSharp::TroopEntry
+  displayName: Pistol
+  prefab: {fileID: 4232113997875011578, guid: ecca66814f5d80140a710e9ca610f163, type: 3}
+  cardSprite: {fileID: -4785504272512964939, guid: 5dd4be003cc6f7c45886a48d9e91358a, type: 3}

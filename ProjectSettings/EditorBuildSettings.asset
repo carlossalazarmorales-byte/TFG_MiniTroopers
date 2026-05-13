@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: ace61b7e8c4a1c44389003f76dc9a9bc
+  - enabled: 1
+    path: Assets/Scenes/SquadSetup.unity
+    guid: 7e0c3a6ec53ab324e9e58f0685c65028
+  - enabled: 1
+    path: Assets/Scenes/Mission.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/WaveMission.unity
+    guid: cf6dbf9484c3ef347bfb8f53e15eae66
+  - enabled: 1
+    path: Assets/Scenes/Results.unity
+    guid: a4fbd6011ffe2a640b80c7fac91735bf
+  - enabled: 1
+    path: Assets/Scenes/SquadMenu.unity
+    guid: e1a1a8094a68de945902ac4f12c6373b
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: cc3ff6897d40e464e8d270029a31045a
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0

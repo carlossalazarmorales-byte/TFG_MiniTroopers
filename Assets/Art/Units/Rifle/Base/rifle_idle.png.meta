@@ -1,0 +1,298 @@
+fileFormatVersion: 2
+guid: 6ce03a2a78107c645a6d0956e3814add
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1133300836679824036
+    second: Soldado rifle andando_0
+  - first:
+      213: 7202526958534829978
+    second: Soldado rifle andando_1
+  - first:
+      213: -5635993686318173417
+    second: Soldado rifle andando_2
+  - first:
+      213: 2290812387381828895
+    second: Soldado rifle andando_3
+  - first:
+      213: -4767583189390419108
+    second: Soldado rifle andando_4
+  - first:
+      213: -7153254360982007945
+    second: Soldado rifle andando_5
+  - first:
+      213: 5666924217485502759
+    second: Soldado rifle andando_6
+  - first:
+      213: 6003470630878532083
+    second: Soldado rifle andando_7
+  - first:
+      213: -227618905286031783
+    second: Soldado rifle andando_8
+  - first:
+      213: 9014186792772761626
+    second: Soldado rifle andando_9
+  - first:
+      213: 8871761926537734451
+    second: Soldado rifle andando_10
+  - first:
+      213: 4477896919226055828
+    second: Soldado rifle andando_11
+  - first:
+      213: 1292656916955202069
+    second: Soldado rifle andando_12
+  - first:
+      213: -1041683295870028228
+    second: Soldado rifle andando_13
+  - first:
+      213: 6717948027878521348
+    second: Soldado rifle andando_14
+  - first:
+      213: 6718325088120382602
+    second: Soldado rifle andando_15
+  - first:
+      213: -7662461892027221493
+    second: Soldado rifle andando_16
+  - first:
+      213: -3271298668120919601
+    second: Soldado rifle andando_17
+  - first:
+      213: -4531933447134970933
+    second: Soldado rifle andando_18
+  - first:
+      213: -9193201365652818137
+    second: Soldado rifle andando_19
+  - first:
+      213: 4773053097171012727
+    second: Soldado rifle andando_20
+  - first:
+      213: -3237760740567171007
+    second: Soldado rifle andando_21
+  - first:
+      213: -3059327248857663323
+    second: Soldado rifle andando_22
+  - first:
+      213: -2901620134113946363
+    second: Soldado rifle andando_23
+  - first:
+      213: 6841415835796943463
+    second: Soldado rifle andando_24
+  - first:
+      213: 7326500642134301401
+    second: Soldado rifle andando_25
+  - first:
+      213: 3710984881834400910
+    second: Soldado rifle andando_26
+  - first:
+      213: -3033781712459179838
+    second: Soldado rifle andando_27
+  - first:
+      213: -4734508377846239447
+    second: Soldado rifle andando_28
+  - first:
+      213: 7408534708388272722
+    second: Soldado rifle andando_29
+  - first:
+      213: -7203357680319124478
+    second: Soldado rifle andando_30
+  - first:
+      213: 9166000280895907677
+    second: Soldado rifle andando_31
+  - first:
+      213: -8040269751743891059
+    second: Soldado rifle andando_32
+  - first:
+      213: 1723071132588724826
+    second: Soldado rifle andando_33
+  - first:
+      213: -624616696812224595
+    second: Soldado rifle andando_34
+  - first:
+      213: 5695492536789872633
+    second: Soldado rifle andando_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rifle_walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2840
+        width: 402
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2bafb96dbea6849ab7027a98dcc574
+      internalID: -1768255233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: eccedfe4ad4cab64b8fb81c3becf6365
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":6.0},"gridSpriteSize":{"x":402.0,"y":568.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      rifle_walk_0: -1768255233
+      rifle_walk_1: 656371148
+      rifle_walk_10: 1638592559
+      rifle_walk_11: -1674605260
+      rifle_walk_12: 780582104
+      rifle_walk_13: -403090497
+      rifle_walk_14: -2037170649
+      rifle_walk_15: 167063172
+      rifle_walk_16: 154703503
+      rifle_walk_17: -303653759
+      rifle_walk_18: -457453727
+      rifle_walk_19: 1824652872
+      rifle_walk_2: 517111658
+      rifle_walk_20: -2095012232
+      rifle_walk_21: 662566607
+      rifle_walk_22: -1182912678
+      rifle_walk_23: -1470728038
+      rifle_walk_24: -1826565396
+      rifle_walk_25: -1279267223
+      rifle_walk_26: 323883586
+      rifle_walk_27: 1938154856
+      rifle_walk_28: -941362771
+      rifle_walk_29: -229096287
+      rifle_walk_3: 223632722
+      rifle_walk_30: 1471258142
+      rifle_walk_31: 1795080954
+      rifle_walk_32: 822917672
+      rifle_walk_33: 488947737
+      rifle_walk_34: -1425176351
+      rifle_walk_35: 1401991551
+      rifle_walk_4: -1514181488
+      rifle_walk_5: 67483576
+      rifle_walk_6: -1165271717
+      rifle_walk_7: 1970216562
+      rifle_walk_8: 508515771
+      rifle_walk_9: -170225097
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

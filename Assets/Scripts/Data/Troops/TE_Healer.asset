@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3aa75b2c1df915448ae359e202bb2e60, type: 3}
+  m_Name: TE_Healer
+  m_EditorClassIdentifier: Assembly-CSharp::TroopEntry
+  displayName: Healer
+  prefab: {fileID: 4232113997875011578, guid: 2a29aaaf12d52b442aef3dbdac289eea, type: 3}
+  cardSprite: {fileID: 5035014440075412336, guid: 0eb5f3bad365c684eb596200c09dd28e, type: 3}

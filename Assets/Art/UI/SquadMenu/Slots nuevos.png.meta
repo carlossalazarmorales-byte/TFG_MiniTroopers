@@ -1,0 +1,266 @@
+fileFormatVersion: 2
+guid: 7ca5eb87ca501c244afea345d9006f34
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8608782858861626355
+    second: Slots nuevos_0
+  - first:
+      213: -3885148151695304608
+    second: Slots nuevos_1
+  - first:
+      213: 5391495287280233142
+    second: Slots nuevos_2
+  - first:
+      213: -6220077586275107841
+    second: Slots nuevos_3
+  - first:
+      213: -6340062294001105961
+    second: Slots nuevos_4
+  - first:
+      213: -9136163764202865335
+    second: Slots nuevos_5
+  - first:
+      213: -6206199084446314250
+    second: Slots nuevos_6
+  - first:
+      213: -3912988441467621402
+    second: Slots nuevos_7
+  - first:
+      213: 5348099644263826934
+    second: Slots nuevos_8
+  - first:
+      213: -6240061977358909876
+    second: Slots nuevos_9
+  - first:
+      213: 1715352361227845432
+    second: Slots nuevos_10
+  - first:
+      213: -1227555238115310675
+    second: Slots nuevos_11
+  - first:
+      213: 4772223515827111616
+    second: Slots nuevos_12
+  - first:
+      213: -6643127507505825823
+    second: Slots nuevos_13
+  - first:
+      213: -2797091677082604906
+    second: Slots nuevos_14
+  - first:
+      213: -6761229991262289120
+    second: Slots nuevos_15
+  - first:
+      213: 6452194334141707293
+    second: Slots nuevos_16
+  - first:
+      213: -1401317647522415009
+    second: Slots nuevos_17
+  - first:
+      213: -1129848302849241125
+    second: Slots nuevos_18
+  - first:
+      213: 1927262159606376003
+    second: Slots nuevos_19
+  - first:
+      213: 5159484938201582111
+    second: Slots nuevos_20
+  - first:
+      213: -9216237520369642597
+    second: Slots nuevos_21
+  - first:
+      213: 4330047004289814708
+    second: Slots nuevos_22
+  - first:
+      213: -7701189570371174468
+    second: Slots nuevos_23
+  - first:
+      213: -5176604748849895434
+    second: Slots nuevos_24
+  - first:
+      213: 6898924019236039257
+    second: Slots nuevos_25
+  - first:
+      213: 8859695203636608676
+    second: Slots nuevos_26
+  - first:
+      213: 2885558810284440794
+    second: Slots nuevos_27
+  - first:
+      213: 8314695833215407143
+    second: Slots nuevos_28
+  - first:
+      213: 4653391002740015266
+    second: Slots nuevos_29
+  - first:
+      213: 6730592726000422727
+    second: Slots nuevos_30
+  - first:
+      213: 6866126524295717292
+    second: Slots nuevos_31
+  - first:
+      213: 8016492799439707261
+    second: Slots nuevos_32
+  - first:
+      213: 8756312315018945612
+    second: Slots nuevos_33
+  - first:
+      213: 2986881375697026378
+    second: Slots nuevos_34
+  - first:
+      213: -3782212803043216571
+    second: Slots nuevos_35
+  - first:
+      213: 6586447996391492682
+    second: Slots nuevos_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Slots nuevos_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 261
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f34bea166a887770800000000000000
+      internalID: 8608782858861626355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e3a1947fa6c56574daa20a2ee0661cc4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":261.0,"y":325.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Slots nuevos_0: 8608782858861626355
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
